@@ -1,0 +1,80 @@
+cat "bm-complete.csv" | tail -n +4 |\
+while read line; do
+hexval=`echo "$line" | cut -d, -f2`
+name=`echo "$line" | cut -d, -f1`
+echo "hexval=$hexval; name=$name;"
+convert -size 100x100 xc:"#$hexval" "${name}.png"
+done
+
+
+Mine that actually works!!!!!
+
+cat "bm-complete.csv" |while read line; do hexval=`echo "$line" | cut -d, -f2`; name=`echo "$line" | cut -d, -f1`; echo "$name - $hexval"; convert -size 300x300 xc:"$hexval" "${name}.png";done
+
+As you would type in command line, both work; just not the first one
+
+cat "bm-complete.csv" |\
+while read line; do
+hexval=`echo "$line" | cut -d, -f2`
+name=`echo "$line" | cut -d, -f1`
+echo "$name - $hexval"
+convert -size 300x300 xc:"$hexval" "${name}.png"
+done
+
+RGB
+
+convert -size 100x100 xc:rgb\(0,255,0\) whatever.png
+
+Cloverdale: Artisan.csv
+Color code: 2
+RGB: 7,8,9
+
+
+Wouldn't work as they are 0-.99 instead of 0-255
+
+cat "Artisan.csv" | tail -n +1300  |\
+while read line; do
+rval=`echo "$line" | cut -d, -f7`
+gval=`echo "$line" | cut -d, -f8`
+bval=`echo "$line" | cut -d, -f9`
+name=`echo "$line" | cut -d, -f2`
+echo "$name - $rval,$gval,$bval"
+convert -size 300x300 xc:rgb\("${rval},${gval},${bval}"\) "${name}.png"
+done
+
+
+I converted in Numbers by multiplying by 255
+
+cat "Artisanx255.csv" |\
+while read line; do
+rval=`echo "$line" | cut -d, -f10`
+gval=`echo "$line" | cut -d, -f11`
+bval=`echo "$line" | cut -d, -f12`
+name=`echo "$line" | cut -d, -f2`
+echo "$name - $rval,$r,$gval,$bval"
+convert -size 300x300 xc:rgb\("${rval},${gval},${bval}"\) "${name}.png"
+done
+
+Sherwin Williams
+
+cat "Emerald Designer Edition Digital Data.csv" |\
+while read line; do
+rval=`echo "$line" | cut -d, -f6`
+gval=`echo "$line" | cut -d, -f7`
+bval=`echo "$line" | cut -d, -f8`
+name=`echo "$line" | cut -d, -f2`
+echo "$name - $rval,$gval,$bval"
+convert -size 300x300 xc:rgb\("${rval},${gval},${bval}"\) "${name}.png"
+done
+
+SW Color Snap
+
+cat "SW-ColorSnap-Color-Swatches-for-SW-Site-locator-031319.csv" |\
+while read line; do
+rval=`echo "$line" | cut -d, -f4`
+gval=`echo "$line" | cut -d, -f5`
+bval=`echo "$line" | cut -d, -f6`
+name=`echo "$line" | cut -d, -f1`
+echo "$name - $rval,$gval,$bval"
+convert -size 300x300 xc:rgb\("${rval},${gval},${bval}"\) "${name}.png"
+done
