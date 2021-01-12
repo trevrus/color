@@ -1,0 +1,232 @@
+colorCode,colorName,hexCode
+CC-2,Raphael,#593936
+CC-4,Camelot,#5e4d55
+CC-6,Muskoka Dusk,#a38a8c
+CC-8,Frosted Berry,#c0a5a1
+CC-10,Ultra White,#edefed
+CC-20,Decorator's White,#eceeeb
+CC-30,Oxford White,#f1f2eb
+CC-32,Radicchio,#6a3642
+CC-34,Jester,#5b3747
+CC-36,Peerage,#503c51
+CC-38,Nightfall Sky,#706679
+CC-40,Cloud White,#f3f2e7
+CC-50,White Down,#ece7d8
+CC-60,Brandy Cream,#e3d5c3
+CC-62,Sundried Tomato,#793a35
+CC-64,Bonaparte,#a03f3f
+CC-66,Rapture,#9d2f3c
+CC-68,Lyons Red,#a73942
+CC-70,Dune White,#edebe1
+CC-80,Gray Mist,#e4e0d3
+CC-90,Natural Linen,#d8ceb8
+CC-92,Spanish Red,#994942
+CC-94,Northern Fire,#a74d44
+CC-96,Flower Pot,#b96e53
+CC-98,Prairie Lily,#be6549
+CC-100,Flurry,#f7f1e2
+CC-110,Muslin,#e2d7c2
+CC-120,Stone House,#d0bb9d
+CC-122,Boxcar Red,#8f514a
+CC-124,Louisiana Hot Sauce,#8f4031
+CC-126,Covered Bridge,#a65a4f
+CC-128,Red Point Sand,#b46a58
+CC-130,Ivory White,#f3f0e0
+CC-140,Barely Beige,#eadec6
+CC-150,Sandy Brown,#d4c19e
+CC-152,Laurentian Red,#7f4b47
+CC-154,Smoked Salmon,#c28674
+CC-156,Tofino Sunset,#e7bead
+CC-158,Pink Moiré,#f3dbcd
+CC-160,White Rock,#f6efd9
+CC-170,Honey Harbor,#f2e5c5
+CC-180,Barley,#eed8a5
+CC-182,Frontenac Brick,#bd8c6f
+CC-184,Bed and Breakfast,#c28973
+CC-186,Indian Summer,#ddab87
+CC-188,Butter Rum,#f1caa2
+CC-190,Summer Harvest,#efe0b8
+CC-200,Vellum,#e9d4a2
+CC-210,Dijon,#e2c38c
+CC-212,Danse du Soleil,#fad896
+CC-214,Golden Honey,#fbe2a1
+CC-216,Butter Milk,#fcecc2
+CC-218,Corn Silk,#feefb3
+CC-220,Wheat Sheaf,#eee6cf
+CC-230,Delaware Putty,#ded4b8
+CC-240,Late Wheat,#cbb98d
+CC-242,Maple Fudge,#e6c58c
+CC-244,French Toast,#ebd0a1
+CC-246,Vichyssoise,#e4dabc
+CC-248,Papaya,#e6d8ba
+CC-250,Seaspray,#e3dcc3
+CC-260,Butter Cream,#d6c9a7
+CC-270,Baffin Island,#c2b798
+CC-272,Spiced Rum,#9d6f4a
+CC-274,Ginger Root,#cba573
+CC-276,Sepia Tan,#dbbe99
+CC-278,Kitsilano Beach,#ebd3b2
+CC-280,Almond Bisque,#e8dcbc
+CC-290,Straw Hat,#dacaa2
+CC-300,Sombrero,#cfba86
+CC-302,Rawhide,#ba9a79
+CC-304,Sisal,#caad87
+CC-306,Cable Knit,#e3d3b4
+CC-308,Thousand Islands,#ddcdb4
+CC-310,Dusty Road,#dfd1c1
+CC-320,Bar Harbor Beige,#d0bda5
+CC-330,Hillsborough Beige,#bda78d
+CC-332,Norwester Tan,#aa8f6a
+CC-334,Great Plains,#b1997b
+CC-336,Wild Mushroom,#b9a284
+CC-338,Bluffs,#cab495
+CC-340,Lambskin,#e9ddc9
+CC-350,Sycamore,#e4c4a7
+CC-360,Potters Clay,#ba8867
+CC-362,Elk,#a68e73
+CC-364,Shore Line,#b5a08c
+CC-366,Nubuck,#cab099
+CC-368,Sandpiper Beige,#d8c3ae
+CC-370,Sea Urchin,#e2d0b6
+CC-380,Toffee Cream,#d3ac89
+CC-390,Rusty Nail,#9d6141
+CC-392,Muddy York,#b59d8e
+CC-394,Boulevard,#c4b9af
+CC-396,Stone Castle,#cbbeb0
+CC-398,Old Montreal,#cbbaa9
+CC-400,Sundial,#ebd5b1
+CC-410,Boardwalk,#d6b488
+CC-420,Maple Syrup,#b98e61
+CC-422,Pink Pebble,#cdbaae
+CC-424,Old Stone,#d4c5bb
+CC-426,Bone China,#ddd4cb
+CC-428,Ice Breaker,#e8ded0
+CC-430,Moccasin,#e0cfb4
+CC-440,Capilano Bridge,#c1a888
+CC-450,Caramel Apple,#9a7d58
+CC-452,Deer Granite,#9f8d7d
+CC-454,Cobblestone,#b8aa9d
+CC-456,Dufferin Terrace,#cabfb0
+CC-458,Mocha Cream,#d4cabe
+CC-460,Inukshuk,#cec5b6
+CC-470,Rocky Road,#b8ab9b
+CC-480,Cabot Trail,#a08f7d
+CC-482,Chocolate Fondue,#735849
+CC-484,Hot Chocolate,#876150
+CC-486,Tiramisu,#b5977b
+CC-488,Biscotti,#c9ad8f
+CC-490,Stone Hearth,#c5bbab
+CC-500,Ranchwood,#aea391
+CC-510,Buckhorn,#85745f
+CC-512,Marshlands,#665a4b
+CC-514,Hiking Trail,#9e8875
+CC-516,Flagstone,#978878
+CC-518,Escarpment,#a39e97
+CC-520,Florentine Plaster,#cbc5b1
+CC-530,Brandon Beige,#b0a690
+CC-540,Stampede,#867b69
+CC-542,Willow,#574f49
+CC-544,Overcoat,#6a6968
+CC-546,Metropolis,#8c857d
+CC-548,Asphalt,#807e78
+CC-550,October Mist,#b7b9a6
+CC-560,Raintree Green,#9b9d88
+CC-570,Forest Floor,#636552
+CC-572,Barnboard,#8c8375
+CC-574,Mortar,#8f826b
+CC-576,Nordic Gray,#9f917a
+CC-578,Hemp Seed,#d2c6a9
+CC-580,Glazed Green,#d7dbc0
+CC-590,Grasslands,#b0b389
+CC-600,Mossy Oak,#7c8169
+CC-602,Stanley Park,#a4a088
+CC-604,Turret,#ac9f89
+CC-606,Spanish Olive,#c6c4af
+CC-608,Dewdrop,#e3e8dd
+CC-610,Tea Light,#cad1c0
+CC-620,High Park,#8d9a86
+CC-630,Backwoods,#596352
+CC-632,Bed of Ferns,#9a9376
+CC-634,Herbes de Provence,#afaa90
+CC-636,Mountain Air,#c5c3b1
+CC-638,Sesame,#dcd7a8
+CC-640,Blue Grass,#c3d2c7
+CC-650,Grenadier Pond,#91a494
+CC-660,Jack Pine,#5b726a
+CC-662,Night Owl,#5a533d
+CC-664,Provincial Park,#6a6854
+CC-666,Bonsai,#616342
+CC-668,Misted Fern,#979b73
+CC-670,Gray Wisp,#c0c7bc
+CC-680,Raindance,#a8b4ab
+CC-690,Piedmont Gray,#9ea9a2
+CC-692,Topsoil,#43493f
+CC-694,Tapenade,#868468
+CC-696,Taiga,#969280
+CC-698,Killarney,#b9b9a2
+CC-700,Smoky Green,#c8d0c9
+CC-710,Mount Saint Anne,#a4b1af
+CC-720,Night Train,#7b8580
+CC-722,Vineland,#888973
+CC-724,Homestead,#949981
+CC-726,Nature Lover,#a6ab93
+CC-728,Maid of the Mist,#bcc7b8
+CC-730,Blue Stream,#b1cad1
+CC-740,Labrador Blue,#809ead
+CC-750,West Coast,#6c8996
+CC-752,Miramichi,#31494b
+CC-754,Polar Jade,#4f6d6c
+CC-756,Avalon,#70908f
+CC-758,Scenic Drive,#9dad9f
+CC-760,Northern Air,#a1bfcf
+CC-770,Denim Wash,#86a1b7
+CC-780,Kensington Blue,#4c5b72
+CC-782,Georgian Bay,#547385
+CC-784,Clear Sailing,#84b9d1
+CC-786,Summer Day,#98c4e0
+CC-788,Watercolor,#bdd5de
+CC-790,Polar Sky,#ccdee3
+CC-800,Blue Nose,#6488a0
+CC-810,Hudson Bay,#405367
+CC-812,Five Dollar Bill,#82a6c1
+CC-814,Glace Bay,#9bb5c8
+CC-816,Athabasca,#b2c0c8
+CC-818,Early Morning,#9cb2bc
+CC-820,Airway,#b5c6d8
+CC-830,Stratford Blue,#7786a2
+CC-840,Blue Heron,#5d6b86
+CC-842,Mistral,#11567e
+CC-844,Winter's Eve,#41739d
+CC-846,Lazy Sunday,#5f90b7
+CC-848,Mineral Springs,#afd4e6
+CC-850,Blue Ice,#bbcce0
+CC-860,Blue Nova,#5c6e93
+CC-870,Jet Blue,#424b63
+CC-872,Delphinium,#314d8a
+CC-874,Mosaic,#3963a4
+CC-876,Mariner's Tale,#6c8eb4
+CC-878,H2O,#a2c0d6
+CC-880,Violet Mist,#cad1d9
+CC-890,Blue Pearl,#94a1be
+CC-900,Blue Gaspe,#5d6375
+CC-902,Waterdrop,#5d7ab4
+CC-904,Cascade,#8eaeda
+CC-906,Summer Mist,#9eb3d1
+CC-908,Frozen Canal,#a6b8ce
+CC-910,Whirlpool,#dfe3e4
+CC-920,Yukon Sky,#a1a7b7
+CC-930,Amethyst Shadow,#6f7283
+CC-932,North Sea,#2c3c4d
+CC-934,In the Twilight,#757e93
+CC-936,Citadel,#94a7bf
+CC-938,Ice Sculpture,#c8d6e5
+CC-940,Blue Viola,#adb4cb
+CC-950,Queen's Wreath,#7d829e
+CC-960,French Violet,#6a6e87
+CC-962,Blackberry Punch,#404251
+CC-964,Blue Grotto,#363a64
+CC-966,Wizard,#41476e
+CC-968,Basic Blue,#40467e
+CC-970,Heather Field,#a7a7be
+CC-980,Purple Haze,#838093
+CC-990,Super Nova,#524d5b

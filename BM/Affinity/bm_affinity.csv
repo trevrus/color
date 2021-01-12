@@ -1,0 +1,145 @@
+colorCode,colorName,hexCode
+AF-5,Frostine,#eff2ec
+AF-10,Gardenia,#f4f1ea
+AF-15,Steam,#f1f0e7
+AF-20,Mascarpone,#f9f8e9
+AF-25,Paper Mache,#f1f1e4
+AF-30,Deep in Thought,#efeddc
+AF-35,Vapor,#f0ede0
+AF-40,Lychee,#f6eddd
+AF-45,Collector's Item,#f2ebdd
+AF-50,Etiquette,#e6e1d6
+AF-55,Sonnet,#e4dcce
+AF-60,Peau de Soie,#e6dccf
+AF-65,Fossil,#e4decf
+AF-70,Battenberg,#eae6d1
+AF-75,Refined,#dfe0ce
+AF-80,Jute,#dad3bf
+AF-85,Frappe,#e8dcc4
+AF-90,Harmony,#decdb2
+AF-95,Hush,#d5cab0
+AF-100,Pashmina,#bcb3a2
+AF-105,Elk Horn,#988669
+AF-110,Coriander Seed,#958166
+AF-115,Lodge,#7e674e
+AF-120,Tamarind,#746147
+AF-125,Morrel,#b39779
+AF-130,Truffle,#c7b198
+AF-135,Interlude,#b9a38b
+AF-140,Pensive,#beab96
+AF-145,Kangaroo,#c0b299
+AF-150,Cotswold,#b6a796
+AF-155,Weimaraner,#a09383
+AF-160,Carob,#8d705e
+AF-165,Kona,#735742
+AF-170,French Press,#604e44
+AF-175,Barista,#59433b
+AF-180,Wenge,#3d2e2c
+AF-185,Venetian Portico,#c5aa97
+AF-190,Boudoir,#dbc3af
+AF-195,Terra Bella,#debfa0
+AF-200,Lingerie,#d5b696
+AF-205,Serendipity,#dab192
+AF-210,Milk and Honey,#d4a583
+AF-215,Italianate,#cc9a77
+AF-220,Masada,#a4683f
+AF-225,Firenze,#b97551
+AF-230,Buttered Yam,#c47641
+AF-235,Warmed Cognac,#975b3b
+AF-240,Satchel,#815032
+AF-245,Ipanema,#c6a48d
+AF-250,Head Over Heels,#f0dfd3
+AF-255,Fondant,#f9eee4
+AF-260,Proposal,#e9dad5
+AF-265,Charmeuse,#dccdc3
+AF-270,Tea Room,#a16f69
+AF-275,Rustique,#7d3f2f
+AF-280,Salsa Dancing,#ac5540
+AF-285,Moroccan Spice,#b35d51
+AF-290,Caliente,#8b2829
+AF-295,Pomegranate,#8c393f
+AF-300,Dinner Party,#773738
+AF-305,Ylang Ylang,#f5eacf
+AF-310,Subtle,#f3e8d0
+AF-315,Jicama,#f3dfbd
+AF-320,Flawless,#eedcbe
+AF-325,Handmade,#efd8b3
+AF-330,Soleil,#fdeabe
+AF-335,Safari,#ebd3a9
+AF-340,Oat Straw,#d0bb93
+AF-345,Honeymoon,#d9bb88
+AF-350,Kurkuma,#ba9358
+AF-355,Etruscan,#b08356
+AF-360,Farm Fresh,#c5a079
+AF-365,Amulet,#dac89b
+AF-370,Citrine,#c9ac6f
+AF-375,Rattan,#bca678
+AF-380,Coastal Path,#c3b494
+AF-385,Splendor,#cebe96
+AF-390,Glacial Till,#c4b89e
+AF-395,Meditation,#aca48d
+AF-400,Elemental,#b2ad8e
+AF-405,Thicket,#a2a17f
+AF-410,Lapland,#b5af8f
+AF-415,Grasshopper,#c6c498
+AF-420,Agave,#adaa6f
+AF-425,Anjou Pear,#c8b77a
+AF-430,Wasabi,#b5a95d
+AF-435,Spa,#d6d4b9
+AF-440,Urban Nature,#b2b697
+AF-445,Aventurine,#989d79
+AF-450,Seedling,#a4b793
+AF-455,Croquet,#b3b7a0
+AF-460,Jojoba,#868b75
+AF-465,Wind Chime,#c8cbb7
+AF-470,Flora,#a4ad9f
+AF-475,Lush,#748172
+AF-480,Boreal Forest,#54604f
+AF-485,Crystalline,#cad5c9
+AF-490,Tranquility,#bcc4bc
+AF-495,Azores,#8aa199
+AF-500,Atmospheric,#899e9b
+AF-505,Blue Echo,#6f898e
+AF-510,Dragonfly,#3e625f
+AF-515,Exhale,#a0b9c2
+AF-520,Schooner,#537788
+AF-525,Fiji,#4f8093
+AF-530,Lucerne,#3b657e
+AF-535,Serenata,#acc2cd
+AF-540,Constellation,#d6e2e4
+AF-545,Solitude,#a4afb5
+AF-550,Amsterdam,#82959e
+AF-555,Montpelier,#728188
+AF-560,Flint,#575d5f
+AF-565,Mysterious,#464c55
+AF-570,Coastline,#929ea9
+AF-575,Instinct,#bbc6d1
+AF-580,Luxe,#757e93
+AF-585,Wisteria,#9d9da7
+AF-590,Tempest,#7b777f
+AF-595,Inspired,#ad9fab
+AF-600,Amorous,#968997
+AF-605,Slip,#d7d3d6
+AF-610,Batik,#cdbab6
+AF-615,Violetta,#c5b8bc
+AF-620,Sanctuary,#b5aab0
+AF-625,Aplomb,#95727e
+AF-630,Kalamata,#705160
+AF-635,Bonne Nuit,#7d6b74
+AF-640,Kasbah,#7a6d70
+AF-645,Chambourd,#57474f
+AF-650,Caponata,#463234
+AF-655,Silhouette,#58514d
+AF-660,Granite,#837e7c
+AF-665,Angelica,#d5cfcc
+AF-670,Nightingale,#b7b5b3
+AF-675,Fusion,#a6a3a1
+AF-680,Wish,#d0cbc3
+AF-685,Thunder,#beb9ae
+AF-690,Metropolitan,#bbbeb9
+AF-695,Eternity,#bfc3c3
+AF-700,Storm,#a0a19f
+AF-705,Cinder,#878684
+AF-710,Secret,#898a84
+AF-715,Dolphin,#86847e
+AF-720,Sparrow,#847d6f

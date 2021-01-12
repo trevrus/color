@@ -1,0 +1,153 @@
+colorCode,colorName,hexCode
+OC-1,Natural Wicker,#e8dfcb
+OC-2,Pale Almond,#e8dcc4
+OC-3,Lambskin,#e9ddc9
+OC-4,Brandy Cream,#e3d5c3
+OC-5,Maritime White,#e6dfcf
+OC-6,Feather Down,#e7e1d0
+OC-7,Creamy White,#e4ddc9
+OC-8,Elephant Tusk,#e5ddc5
+OC-9,Ballet White,#e6e1d1
+OC-10,White Sand,#e1d9c7
+OC-11,Clay Beige,#dad0bc
+OC-12,Muslin,#e2d7c2
+OC-13,Soft Chamois,#e9e6d9
+OC-14,Natural Cream,#dbd6c7
+OC-15,Baby Fawn,#dad4c5
+OC-16,Cedar Key,#d8cfc0
+OC-17,White Dove,#f0efe6
+OC-18,Dove Wing,#eae7dc
+OC-19,Seapearl,#e8e5da
+OC-20,Pale Oak,#dedacf
+OC-21,Winter White,#e8eae3
+OC-22,Calm,#e7e5e0
+OC-23,Classic Gray,#e4e1d8
+OC-24,Wind's Breath,#e0dcce
+OC-25,Cloud Cover,#eae9e1
+OC-26,Silver Satin,#e4e3db
+OC-27,Balboa Mist,#dbd7cd
+OC-28,Collingwood,#d4cfc5
+OC-29,Floral White,#eeecde
+OC-30,Gray Mist,#e4e0d3
+OC-31,Fog Mist,#e3ded1
+OC-32,Tapestry Beige,#dcd8c6
+OC-33,Opaline,#eee9d6
+OC-34,Marble White,#f1ecd8
+OC-35,Spanish White,#ece7d3
+OC-36,Niveous,#ebe5ce
+OC-37,Glacier White,#edebe1
+OC-38,Acadia White,#f3f0e0
+OC-39,Timid White,#f3efde
+OC-40,Albescent,#ece4d0
+OC-41,French Canvas,#e6e4d5
+OC-42,Old Prairie,#e3e1d2
+OC-43,Overcast,#dfdcc8
+OC-44,Misty Air,#e4dfc8
+OC-45,Swiss Coffee,#efede2
+OC-46,Halo,#e1dfd2
+OC-47,Ashwood,#dcd9ca
+OC-48,Hazy Skies,#cfccbb
+OC-49,Titanium,#dbdcd0
+OC-50,November Rain,#e1dfd1
+OC-51,Intense White,#e1e0d8
+OC-52,Gray Owl,#d4d5cd
+OC-53,Horizon,#e0e2dc
+OC-54,White Wisp,#e7e9e2
+OC-55,Paper White,#e1e3dd
+OC-56,Moonshine,#d7d9d0
+OC-57,White Heron,#f1f2eb
+OC-58,White Ice,#ebefea
+OC-59,Vanilla Milkshake,#edede4
+OC-60,Icicle,#eeeee4
+OC-61,White Diamond,#edf0ed
+OC-62,Baby's Breath,#ebede9
+OC-63,Winter Snow,#edefeb
+OC-64,Pure White,#e6e8e5
+OC-65,Chantilly Lace,#f5f7f2
+OC-66,Snow White,#f2f6f2
+OC-67,Ice Mist,#f2f5f2
+OC-68,Distant Gray,#f3f5f2
+OC-69,White Opulence,#f6f3ee
+OC-70,Whitewater Bay,#f5f0eb
+OC-71,Sand Dollar,#f1ece5
+OC-72,Pink Damask,#f7f1e8
+OC-73,Opal,#f7ede0
+OC-74,Onyx White,#f3e4d1
+OC-75,Pristine,#f1e3d3
+OC-76,Old Country,#e9d8c7
+OC-77,Colonial Cream,#f8ecdb
+OC-78,Parchment,#f8e8d5
+OC-79,Old Fashioned Peach,#f6e4cd
+OC-80,Pirates Cove Beach,#f6e1c9
+OC-81,Evening White,#f4e7d4
+OC-82,Pompeii,#f6ebd7
+OC-83,Antique White,#f3e6d4
+OC-84,Crème Caramel,#f1e1ca
+OC-85,Mayonnaise,#faf6e6
+OC-86,White Blush,#f7f1e2
+OC-87,Capri Coast,#f4e9d5
+OC-88,Indian White,#eee5d1
+OC-89,Butter Pecan,#f9f2e2
+OC-90,Vanilla Ice Cream,#fbf4e1
+OC-91,Ivory Tusk,#f9f2de
+OC-92,Mannequin Cream,#f8edd3
+OC-93,Sugar Cookie,#faf3e1
+OC-94,Windswept,#f8f0dd
+OC-95,Navajo White,#efe8d6
+OC-96,Gentle Cream,#eadec6
+OC-97,Cream Froth,#fbf4e4
+OC-98,Bare,#f8efdc
+OC-99,Deserted Island,#f0e6d1
+OC-100,Palace White,#ebe1c9
+OC-101,Desolate,#f7ebd3
+OC-102,Devon Cream,#faecd3
+OC-103,Antique Yellow,#f8edd4
+OC-104,Antique Lace,#f7e9ca
+OC-105,Calming Cream,#f6efd9
+OC-106,Man on the Moon,#f6eece
+OC-107,Antiquity,#f9efcd
+OC-108,Pale Moon,#f4e8bf
+OC-109,Lemon Chiffon,#f7f4de
+OC-110,Milkyway,#fcf7de
+OC-111,Corinthian White,#f7ebcb
+OC-112,Goldtone,#f7eac5
+OC-113,Powder Sand,#f6f3e2
+OC-114,Lemon Ice,#fbf9e1
+OC-115,Cream Silk,#f3f2d8
+OC-116,Pale Celery,#f3ecce
+OC-117,Simply White,#f7f7ee
+OC-118,Snowfall White,#f7f8ef
+OC-119,Cloud Nine,#eff0e6
+OC-120,Seashell,#edead9
+OC-121,Mountain Peak White,#f8f6ec
+OC-122,Cotton Balls,#f6f7ec
+OC-123,Bavarian Cream,#f8f8e8
+OC-124,Alpine White,#f5f5e4
+OC-125,Moonlight White,#f0efe4
+OC-126,Easter Lily,#f8f5e3
+OC-127,White Chocolate,#f6f4e4
+OC-128,Minced Onion,#f1f1e0
+OC-129,Alabaster,#f3f0e9
+OC-130,Cloud White,#f3f2e7
+OC-131,White Down,#ece7d8
+OC-132,Grand Teton White,#eae6d1
+OC-133,Ancient Ivory,#efeddc
+OC-134,Meadow Mist,#ebebd9
+OC-135,Cream Cloak,#e6e6d3
+OC-136,Celery Salt,#e7e5d0
+OC-137,Sebring White,#e8e8de
+OC-138,White Drifts,#e4e3d6
+OC-139,Sea Wind,#e2e0d0
+OC-140,Morning Dew,#deddce
+OC-141,China White,#e8e5da
+OC-142,Sail Cloth,#e5dfcf
+OC-143,Bone White,#e8dfcb
+OC-144,Lancaster White,#e7e2cd
+OC-145,Atrium White,#f3f0e9
+OC-146,Linen White,#f3ecdb
+OC-147,Cameo White,#f3e8d0
+OC-148,Montgomery White,#f5e3c1
+OC-149,Decorator's White,#eceeeb
+OC-150,Brilliant White,#ecefea
+OC-151,White,#eeefec
+OC-152,Super White,#f2f3ef

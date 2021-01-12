@@ -1,0 +1,192 @@
+colorCode,colorName,hexCode
+HC-1,Castleton Mist,#dbd4a2
+HC-2,Beacon Hill Damask,#e6dcac
+HC-3,Greenmount Silk,#ede5c5
+HC-4,Hawthorne Yellow,#f6e2a5
+HC-5,Weston Flax,#f3e6bb
+HC-6,Windham Cream,#f6eac8
+HC-7,Bryant Gold,#d6a760
+HC-8,Dorset Gold,#deb774
+HC-9,Chestertown Buff,#dec087
+HC-10,Stuart Gold,#dfb967
+HC-11,Marblehead Gold,#e2c579
+HC-12,Concord Ivory,#e8ce8e
+HC-13,Millington Gold,#b99d5c
+HC-14,Princeton Gold,#c3ab6d
+HC-15,Henderson Buff,#ccbb85
+HC-16,Livingston Gold,#a18c60
+HC-17,Summerdale Gold,#c2a974
+HC-18,Adams Gold,#dbcb9d
+HC-19,Norwich Brown,#96815e
+HC-20,Woodstock Tan,#a4906b
+HC-21,Huntington Beige,#bba988
+HC-22,Blair Gold,#bda571
+HC-23,Yorkshire Tan,#c1b18d
+HC-24,Pittsfield Buff,#decda8
+HC-25,Quincy Tan,#c0af8d
+HC-26,Monroe Bisque,#dbcbab
+HC-27,Monterey White,#eae6d1
+HC-28,Shelburne Buff,#ccb68e
+HC-29,Dunmore Cream,#dfcfa7
+HC-30,Philadelphia Cream,#eedeb8
+HC-31,Waterbury Cream,#decb9b
+HC-32,Standish White,#ecdcba
+HC-33,Montgomery White,#f5e3c1
+HC-34,Wilmington Tan,#cdb185
+HC-35,Powell Buff,#dfcda8
+HC-36,Hepplewhite Ivory,#f4e6c4
+HC-37,Mystic Gold,#a8895c
+HC-38,Decatur Buff,#c2a87e
+HC-39,Putnam Ivory,#dbcaac
+HC-40,Greenfield Pumpkin,#9c724a
+HC-41,Richmond Gold,#b89264
+HC-42,Roxbury Caramel,#cba479
+HC-43,Tyler Taupe,#b29770
+HC-44,Lenox Tan,#c3af8f
+HC-45,Shaker Beige,#d2c3a8
+HC-46,Jackson Tan,#ab8a6b
+HC-47,Brookline Beige,#c1a78a
+HC-48,Bradstreet Beige,#d2bea5
+HC-49,Mayflower Red,#9f634e
+HC-50,Georgian Brick,#995a4a
+HC-51,Audubon Russet,#af6c56
+HC-52,Ansonia Peach,#e8b489
+HC-53,Hathaway Peach,#f2cba8
+HC-54,Jumel Peachtone,#f2d6b8
+HC-55,Winthrop Peach,#ceaa91
+HC-56,Georgetown Pink Beige,#e0c2ac
+HC-57,Sheraton Beige,#ebd4bc
+HC-58,Chippendale Rosetone,#d7b4a4
+HC-59,Odessa Pink,#e3c9bb
+HC-60,Queen Anne Pink,#f2dac7
+HC-61,New London Burgundy,#764c4f
+HC-62,Somerville Red,#9b6e6c
+HC-63,Monticello Rose,#d1afa0
+HC-64,Townsend Harbour Brown,#644644
+HC-65,Hodley Red,#784e4b
+HC-66,Garrison Red,#8d5a57
+HC-67,Clinton Brown,#66564b
+HC-68,Middlebury Brown,#6a5a4e
+HC-69,Whitall Brown,#7c6d5e
+HC-70,Van Buren Brown,#605047
+HC-71,Hasbrouck Brown,#664d44
+HC-72,Branchport Brown,#61524b
+HC-73,Plymouth Brown,#80674f
+HC-74,Valley Forge Brown,#937355
+HC-75,Maryville Brown,#9e7857
+HC-76,Davenport Tan,#8b7865
+HC-77,Alexandria Beige,#a4937d
+HC-78,Litchfield Gray,#d6cbbc
+HC-79,Greenbrier Beige,#bcac8f
+HC-80,Bleeker Beige,#cec1a9
+HC-81,Manchester Tan,#dcd3bd
+HC-82,Bennington Gray,#c3b69b
+HC-83,Grant Beige,#cfc6b1
+HC-84,Elmira White,#dcd4c4
+HC-85,Fairview Taupe,#7d7262
+HC-86,Kingsport Gray,#958775
+HC-87,Ashley Gray,#a69b8e
+HC-88,Jamesboro Gold,#988567
+HC-89,Northampton Putty,#ad9d7d
+HC-90,Crown Point Sand,#cfc4a5
+HC-91,Danville Tan,#bcac89
+HC-92,Wheeling Neutral,#cfbfa1
+HC-93,Carrington Beige,#dbd2b8
+HC-94,Old Salem Gray,#a59b7a
+HC-95,Sag Harbour Gray,#b9af96
+HC-96,Richmond Gray,#cfc8ab
+HC-97,Hancock Gray,#978e71
+HC-98,Providence Olive,#ada283
+HC-99,Abingdon Putty,#d7cfb2
+HC-100,Gloucester Sage,#7c7766
+HC-101,Hampshire Gray,#918a73
+HC-102,Clarksville Gray,#b3aa91
+HC-103,Cromwell Gray,#807867
+HC-104,Copley Gray,#928b79
+HC-105,Rockport Gray,#a9a396
+HC-106,Crownsville Gray,#87806a
+HC-107,Gettysburg Gray,#9b9785
+HC-108,Sandy Hook Gray,#afa998
+HC-109,Sussex Green,#817d65
+HC-110,Wethersfield Moss,#908e72
+HC-111,Nantucket Gray,#b0ac94
+HC-112,Tate Olive,#828167
+HC-113,Louisburg Green,#9d9f88
+HC-114,Saybrook Sage,#b2b8a3
+HC-115,Georgian Green,#bab891
+HC-116,Guilford Green,#ccceaf
+HC-117,Hancock Green,#d5dbc0
+HC-118,Sherwood Green,#aab696
+HC-119,Kittery Point Green,#c0ccae
+HC-120,Van Alen Green,#cbd8c1
+HC-121,Peale Green,#596b55
+HC-122,Great Barrington Gree...,#7a8165
+HC-123,Kennebunkport Green,#929e83
+HC-124,Caldwell Green,#637168
+HC-125,Cushing Green,#697767
+HC-126,Avon Green,#74806b
+HC-127,Fairmont Green,#64856a
+HC-128,Clearspring Green,#769b81
+HC-129,Southfield Green,#88ac94
+HC-130,Webster Green,#65816d
+HC-131,Lehigh Green,#76967e
+HC-132,Harrisburg Green,#8bac99
+HC-133,Yorktowne Green,#475b5e
+HC-134,Tarrytown Green,#425853
+HC-135,Lafayette Green,#496156
+HC-136,Waterbury Green,#6d9288
+HC-137,Mill Springs Blue,#7ea29b
+HC-138,Covington Blue,#94b6ad
+HC-139,Salisbury Green,#b1bba5
+HC-140,Prescott Green,#bfcab8
+HC-141,Hollingsworth Green,#cdd5c5
+HC-142,Stratton Blue,#94aaa1
+HC-143,Wythe Blue,#abbfb5
+HC-144,Palladian Blue,#c2d2ca
+HC-145,Van Courtland Blue,#87999f
+HC-146,Wedgewood Gray,#adc0be
+HC-147,Woodlawn Blue,#c2d1cb
+HC-148,Jamestown Blue,#83a1a7
+HC-149,Buxton Blue,#9eb7bb
+HC-150,Yarmouth Blue,#b6c9ca
+HC-151,Buckland Blue,#628798
+HC-152,Whipple Blue,#779fb1
+HC-153,Marlboro Blue,#96bac7
+HC-154,Hale Navy,#444c57
+HC-155,Newburyport Blue,#475667
+HC-156,Van Deusen Blue,#495c6f
+HC-157,Narragansett Green,#445256
+HC-158,Newburg Green,#455a63
+HC-159,Philipsburg Blue,#637986
+HC-160,Knoxville Gray,#5f6d6d
+HC-161,Templeton Gray,#788787
+HC-162,Brewster Gray,#8b9797
+HC-163,Duxbury Gray,#808780
+HC-164,Puritan Gray,#98a09c
+HC-165,Boothbay Gray,#abb3b1
+HC-166,Kendall Charcoal,#686763
+HC-167,Amherst Gray,#767771
+HC-168,Chelsea Gray,#87857d
+HC-169,Coventry Gray,#b9bbb7
+HC-170,Stonington Gray,#cbccc6
+HC-171,Wickham Gray,#d5d9d3
+HC-172,Revere Pewter,#ccc7b9
+HC-173,Edgecomb Gray,#dad4c5
+HC-174,Lancaster Whitewash,#e7e2cc
+HC-175,Briarwood,#a1998a
+HC-176,Annapolis Gray,#cabfb0
+HC-177,Richmond Bisque,#dac7a7
+HC-178,Charcoal Slate,#65686a
+HC-179,Platinum Gray,#a9aaa4
+HC-180,Cliffside Gray,#cdd1cb
+HC-181,Heritage Red,#9a0b15
+HC-182,Classic Burgundy,#6a191b
+HC-183,Country Redwood,#772d24
+HC-184,Cottage Red,#672b26
+HC-185,Tudor Brown,#503b31
+HC-186,Charleston Brown,#75533a
+HC-187,Black Forest Green,#252f2d
+HC-188,Essex Green,#28372f
+HC-189,Chrome Green,#0c422f
+HC-190,Black,#323233
+HC-191,Hamilton Blue,#607780

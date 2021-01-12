@@ -8,6 +8,7 @@ done
 
 
 Mine that actually works!!!!!
+****MAKE SURE TO ADD A NEW LINE AT END OF CSV FILE OR IT WILL NOT READ IT!!****
 
 cat "bm-complete.csv" |while read line; do hexval=`echo "$line" | cut -d, -f2`; name=`echo "$line" | cut -d, -f1`; echo "$name - $hexval"; convert -size 300x300 xc:"$hexval" "${name}.png";done
 

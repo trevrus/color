@@ -1,0 +1,1233 @@
+colorCode,colorName,hexCode
+2000-70,Voile Pink,#fde3e7
+2000-60,Light Chiffon Pink,#ffced9
+2000-50,Blush Tone,#feadbe
+2000-40,Strawberry Shortcake,#f68095
+2000-30,Red Tulip,#e14d5c
+2000-20,Tricycle Red,#d43b42
+2000-10,Red,#ca2f2f
+2001-70,Marshmallow Bunny,#ffe3e8
+2001-60,Country Pink,#ffced9
+2001-50,Full Bloom,#ffadbe
+2001-40,Pink Popsicle,#f67f93
+2001-30,Spring Tulips,#e24c5b
+2001-20,Bonfire,#d63a40
+2001-10,Ruby Red,#cb2d2d
+2002-70,Pink Cadillac,#fee8e9
+2002-60,Sweet 16 Pink,#ffd4d9
+2002-50,Tickled Pink,#ffb4be
+2002-40,Flamingo's Dream,#f98892
+2002-30,Rose Quartz,#e75559
+2002-20,Bull's Eye Red,#da3f3d
+2002-10,Vermilion,#d0322c
+2003-70,Pleasing Pink,#fee3e7
+2003-60,Exotic Pink,#ffced7
+2003-50,Coral Pink,#faacbb
+2003-40,True Pink,#ee7f8f
+2003-30,Berry Wine,#d54d58
+2003-20,Strawberry Red,#c43e3e
+2003-10,Million Dollar Red,#b6342d
+2004-70,Romantic Pink,#fde4e8
+2004-60,Pink Parfait,#fdcdd7
+2004-50,Baby Girl,#f6adbd
+2004-40,Pink Starburst,#e58091
+2004-30,Raspberry Pudding,#cb505b
+2004-20,Chili Pepper,#b24141
+2004-10,Deep Rose,#a13830
+2005-70,Wispy Pink,#f8e5e5
+2005-60,Pink Pearl,#f1ced2
+2005-50,Pink Eraser,#e2aeb4
+2005-40,Genuine Pink,#c88187
+2005-30,Bricktone Red,#9d5352
+2005-20,Hot Apple Spice,#8b463f
+2005-10,Red Rock,#7d3f33
+2006-70,Pink Fairy,#fbe1e1
+2006-60,Authentic Pink,#f7c9cb
+2006-50,Pink Punch,#eba7aa
+2006-40,Glamour Pink,#d47979
+2006-30,Rosy Apple,#b24d46
+2006-20,Sangria,#a64438
+2006-10,Merlot Red,#9e3e2e
+2007-70,Angel Pink,#fde2e4
+2007-60,Pastel Pink,#fbccd1
+2007-50,Supple Pink,#f3abb4
+2007-40,Coral Essence,#df7d84
+2007-30,Rhubarb,#bf4f4f
+2007-20,Shy Cherry,#af4239
+2007-10,Smouldering Red,#a43b2e
+2008-70,Touch of Pink,#fee9e7
+2008-60,Little Piggy,#ffd7d6
+2008-50,Delicate Rose,#fcbaba
+2008-40,Hydrangea Flowers,#f1918e
+2008-30,Raspberry Blush,#d86057
+2008-20,Claret Rose,#ca5044
+2008-10,Ravishing Red,#be4739
+2009-70,Powder Pink,#fee8e5
+2009-60,Pink Sea Shell,#ffd5d4
+2009-50,Fashion Pink,#ffb7b7
+2009-40,Pink Peach,#f98b88
+2009-30,Dark Salmon,#e85b51
+2009-20,Salsa,#dd483a
+2009-10,Redstone,#d43c2c
+2010-70,Frosty Pink,#feeae4
+2010-60,Rose Petal,#ffd8d2
+2010-50,Dawn Pink,#ffbab4
+2010-40,Coral Gables,#fa9084
+2010-30,Starburst Orange,#ea604e
+2010-20,Warm Comfort,#e04d38
+2010-10,Tomato Red,#d8412c
+2011-70,Light Quartz,#feebe7
+2011-60,Springy Peach,#ffdad5
+2011-50,Mixed Fruit,#ffbfb9
+2011-40,Old World,#fe998f
+2011-30,Hot Spice,#f16551
+2011-20,Blazing Orange,#e8523c
+2011-10,Orange,#e1422c
+2012-70,Soft Pink,#feece6
+2012-60,Creamy Peach,#ffdcd5
+2012-50,Perky Peach,#ffc1b8
+2012-40,Summer Sun Pink,#ff9a8a
+2012-30,Tangerine Dream,#f26851
+2012-20,Flame,#e85237
+2012-10,Tawny Day Lily,#e14328
+2013-70,Bridal Pink,#feeee6
+2013-60,Pink Harmony,#ffdfd4
+2013-50,Salmon Peach,#ffc6b6
+2013-40,Dusk Pink,#ff9f85
+2013-30,Jewelled Peach,#f5704c
+2013-20,Orange Nectar,#eb5a34
+2013-10,Outrageous Orange,#e44d29
+2014-70,Ecru,#fef0e3
+2014-60,Whispering Peach,#ffe2d0
+2014-50,Springtime Peach,#ffcbb1
+2014-40,Peachy Keen,#ffa77f
+2014-30,Tangy Orange,#f87a47
+2014-20,Rumba Orange,#f06631
+2014-10,Festive Orange,#ea5924
+2015-70,Apricot Ice,#fdf3e2
+2015-60,Gerbera Daisy,#ffe8cc
+2015-50,Funky Fruit,#ffd5ab
+2015-40,Peach Sorbet,#ffb678
+2015-30,Calypso Orange,#fc8c3d
+2015-20,Orange Burst,#f67d29
+2015-10,Electric Orange,#f1711b
+2016-70,Cancun Sand,#fdf4df
+2016-60,Creamy Beige,#ffebca
+2016-50,Melon Popsicle,#ffd9a7
+2016-40,Marmalade,#ffbb72
+2016-30,Carrot Stick,#fd9638
+2016-20,Citrus Orange,#f88624
+2016-10,Startling Orange,#f57d1c
+2017-70,White Vanilla,#fdf5df
+2017-60,Pale Daffodil,#ffedc8
+2017-50,Yellow Haze,#ffdea7
+2017-40,Sweet Orange,#ffc470
+2017-30,Tangelo,#ffa235
+2017-20,Sharp Cheddar,#fd941f
+2017-10,Orange Juice,#fa8b0d
+2018-70,Milkyway,#fcf7de
+2018-60,Lighthouse,#fff1c7
+2018-50,Morning Sunshine,#ffe5a2
+2018-40,Nacho Cheese,#ffd06c
+2018-30,Citrus Blast,#ffb32a
+2018-20,Mandarin Orange,#ffa807
+2018-10,Orange Sky,#ffa001
+2019-70,Lightning White,#fcf7dc
+2019-60,Lemon Sorbet,#fff3c4
+2019-50,Lemon Drops,#ffe9a0
+2019-40,American Cheese,#ffd867
+2019-30,Sunflower,#ffc31c
+2019-20,Golden Nugget,#ffb801
+2019-10,Mardi Gras Gold,#ffb001
+2020-70,Yellow Freeze,#fcf8de
+2020-60,Moonlight,#fff4c5
+2020-50,Mellow Yellow,#ffeaa0
+2020-40,Yellow Rain Coat,#ffd968
+2020-30,Sparkling Sun,#ffc41f
+2020-20,Lemon Shine,#ffb701
+2020-10,Bumble Bee Yellow,#ffb101
+2021-70,Pale Straw,#fcf8dc
+2021-60,Provence Crème,#fff5c4
+2021-50,Yellow Lotus,#ffed9f
+2021-40,Yellow Highlighter,#ffdf65
+2021-30,Sunshine,#ffcf0c
+2021-20,Lemon,#ffc501
+2021-10,Yellow Flash,#ffbe01
+2022-70,Crème Brulee,#fbf8dd
+2022-60,Light Yellow,#fef6c5
+2022-50,Sundance,#fff2a0
+2022-40,Banana Yellow,#ffe866
+2022-30,Bright Yellow,#ffdc01
+2022-20,Sun Kissed Yellow,#ffd701
+2022-10,Yellow,#ffd501
+2023-70,Crème Fraiche,#fcf9de
+2023-60,Butter,#fdf6c5
+2023-50,Lemon Meringue,#fff1a2
+2023-40,Sunburst,#fbe567
+2023-30,Sun Porch,#f9d70b
+2023-20,Baby Chick,#f1ce01
+2023-10,Yolk,#edca01
+2024-70,Lemon Ice,#fbf9e1
+2024-60,Lemonade,#fbf5c9
+2024-50,Jasper Yellow,#f7edaa
+2024-40,Yellow Finch,#eddd72
+2024-30,Citron,#d8c62f
+2024-20,Eve Green,#cdbc0f
+2024-10,Chartreuse,#c2b501
+2025-70,Barely Yellow,#f8f9dc
+2025-60,Lemon Glow,#f8f7c4
+2025-50,Lemon Freeze,#f1f1a0
+2025-40,Limelight,#e2e566
+2025-30,New Lime,#d3d713
+2025-20,Yew Green,#c4d001
+2025-10,Bright Lime,#b5cb01
+2026-70,Eggshell,#f8f9dd
+2026-60,Summer Lime,#f4f6c6
+2026-50,Fresh Cut Grass,#e8f0a1
+2026-40,Apple Green,#d3e26a
+2026-30,Snow Cone Green,#bed221
+2026-20,Margarita,#a5c801
+2026-10,Lime Green,#98c201
+2027-70,Aspen White,#f6f7dc
+2027-60,Light Daffodil,#f3f3c4
+2027-50,Hibiscus,#e9eaa0
+2027-40,Grape Green,#d6d96a
+2027-30,Eccentric Lime,#c0c529
+2027-20,Spring Moss,#acba16
+2027-10,Dark Lime,#9ab10a
+2028-70,Seahorse,#f5f7de
+2028-60,Celadon Green,#eef2c8
+2028-50,Wales Green,#dee6a4
+2028-40,Pear Green,#c4d270
+2028-30,Tequila Lime,#a7bb33
+2028-20,Douglas Fir,#89ab28
+2028-10,Iguana Green,#7aa31f
+2029-70,Frosty Lime,#f1f6df
+2029-60,Pale Vista,#e5efc9
+2029-50,Potpourri Green,#cee0a8
+2029-40,Stem Green,#adc875
+2029-30,Rosemary Green,#7ca741
+2029-20,Baby Fern,#679b31
+2029-10,Basil Green,#579229
+2030-70,Iced Mint,#edf8e1
+2030-60,Celery Ice,#dcf4cc
+2030-50,Shimmering Lime,#c0e9ab
+2030-40,Spring Leaf,#98d578
+2030-30,Lucky Charm Green,#62b93f
+2030-20,Tropical Seaweed Gre...,#49ac2d
+2030-10,Lizard Green,#34a223
+2031-70,Lime Froth,#f0f9e0
+2031-60,Neon Celery,#e2f4ca
+2031-50,Key Lime,#cceba8
+2031-40,Spring Meadow Green,#a8d974
+2031-30,Sweet Pea,#79c039
+2031-20,Paradise Green,#63b525
+2031-10,Neon Lime,#51ac19
+2032-70,Lime Sorbet,#e8f7e2
+2032-60,Citra Lime,#d6f3cf
+2032-50,Early Spring Green,#b7e7b0
+2032-40,Citrus Green,#89d27f
+2032-30,Fresh Lime,#4fb346
+2032-20,Traffic Light Green,#33a532
+2032-10,Neon Green,#179a29
+2033-70,Sweet Honeydew Melon,#e4f7e6
+2033-60,Mantis Green,#ccf1d3
+2033-50,Bud Green,#a7e4b6
+2033-40,Lime Tart,#73cd89
+2033-30,Fresh Scent Green,#32ab51
+2033-20,Peppermint Leaf,#01993d
+2033-10,Yellow Green,#018b32
+2034-70,Daiquiri Ice,#e6f2e3
+2034-60,Light Pistachio,#d0e7cf
+2034-50,Acadia Green,#afd3b1
+2034-40,Cedar Green,#80b480
+2034-30,Grassy Fields,#458d4f
+2034-20,Vine Green,#307e40
+2034-10,Clover Green,#217438
+2035-70,Italian Ice Green,#e2f1e5
+2035-60,Leisure Green,#c9e4d3
+2035-50,Spruce Green,#a4ceb6
+2035-40,Stokes Forest Green,#72ae88
+2035-30,Nile Green,#358455
+2035-20,Cactus Green,#237543
+2035-10,Seaweed,#146a39
+2036-70,Crème de Mint,#e3f6ea
+2036-60,Surf Green,#caeddb
+2036-50,Marina Bay,#a5ddc2
+2036-40,Meadowlands Green,#76c19a
+2036-30,Green with Envy,#439666
+2036-20,Irish Moss,#357f51
+2036-10,Cat's Eye,#307047
+2037-70,Fresh Mint,#ddf7ea
+2037-60,Santa Barbara Green,#c1f0dc
+2037-50,Greenwood Lake,#95e2c3
+2037-40,Adam Green,#54c89a
+2037-30,Kelly Green,#01a263
+2037-20,Jade Green,#01884b
+2037-10,Amazon Moss,#01713b
+2038-70,Irish Spring,#ddf7ec
+2038-60,Tropical Pool,#c0eedf
+2038-50,Return to Paradise,#96dec8
+2038-40,Monmouth Green,#5cc3a3
+2038-30,Prairie Green,#0b986e
+2038-20,Irish Clover,#017d57
+2038-10,Celtic Green,#0d6647
+2039-70,Refreshing Teal,#d9f7ed
+2039-60,Seafoam Green,#b9efe1
+2039-50,Mermaid Green,#86e0cc
+2039-40,Teal Blast,#36c7a9
+2039-30,Cabana Green,#019f76
+2039-20,Emerald Isle,#018259
+2039-10,Deep Green,#016343
+2040-70,Spring Mint,#daeee8
+2040-60,Antiguan Sky,#c0e1d8
+2040-50,Hazy Blue,#93c7bc
+2040-40,Summer Basket Green,#5da593
+2040-30,Very Green,#18785d
+2040-20,Green Meadows,#0b6649
+2040-10,Rainforest Foliage,#115b3d
+2041-70,Irish Mint,#dff5ee
+2041-60,Soft Mint,#c3e9e1
+2041-50,Sea Mist Green,#9bd6cc
+2041-40,Juneau Spring,#66b5a6
+2041-30,Green Gables,#358270
+2041-20,Fiddlehead Green,#2a6354
+2041-10,Hunter Green,#2b463e
+2042-70,Minty Green,#d9f6ed
+2042-60,Florida Aqua,#b9efe2
+2042-50,Caribe Green,#87dfce
+2042-40,Miami Green,#3ec7ac
+2042-30,Hummingbird Green,#019e7c
+2042-20,Reef Green,#017f5e
+2042-10,True Green,#016148
+2043-70,Frosty Mint,#d8f5ed
+2043-60,Summer Green,#b9ece2
+2043-50,South Beach,#8addce
+2043-40,Egyptian Green,#46c2ad
+2043-30,Kelp Forest Green,#01977b
+2043-20,Ming Jade,#01755e
+2043-10,Absolute Green,#065244
+2044-70,Light Touch,#d4f5ec
+2044-60,Crystal Clear,#b4eee2
+2044-50,Bermuda Teal,#7fdfce
+2044-40,Amelia Island Blue,#26c8b0
+2044-30,St. Patrick,#01a07f
+2044-20,Leprechaun,#018464
+2044-10,Green,#01624a
+2045-70,Soft Green,#d5f5ee
+2045-60,Winter Green,#b4eee3
+2045-50,Green Coral,#80ded0
+2045-40,Bahama Green,#25c6af
+2045-30,Green Leaf,#019d7e
+2045-20,Lawn Green,#017d62
+2045-10,Green Bay,#015a4a
+2046-70,Light Mint,#d6f5ee
+2046-60,Misty Teal,#b5ede4
+2046-50,Scuba Green,#82ded1
+2046-40,Green Sponge,#23c4b0
+2046-30,Cayman Lagoon,#019b80
+2046-20,Garden Green,#017b64
+2046-10,Calypso Green,#015b49
+2047-70,Baby Green,#d9f4ed
+2047-60,Ocean Spray,#bbebe3
+2047-50,Shore House Green,#8cd9ce
+2047-40,Capri Seas,#4cbdac
+2047-30,Rolling Hill Green,#01917b
+2047-20,Manor Green,#016c5c
+2047-10,Forest Green,#184b44
+2048-70,Barely Teal,#d4f2ef
+2048-60,Jamaican Aqua,#b4e9e7
+2048-50,Tropicana Cabana,#7fd6d5
+2048-40,Poolside Blue,#20bab5
+2048-30,Aruba Blue,#018c85
+2048-20,Juniper,#016e67
+2048-10,Sherwood Forest,#014f4b
+2049-70,Icing on the Cake,#ddf1ee
+2049-60,Forget Me Not,#c1e4e4
+2049-50,Spectra Blue,#99cfd1
+2049-40,Peacock Blue,#62adaf
+2049-30,Teal Ocean,#2a787c
+2049-20,Oasis Blue,#235b5e
+2049-10,Pacific Sea Teal,#284144
+2050-70,Blue Bonnet,#def1ed
+2050-60,Arctic Blue,#c5e4e2
+2050-50,Waterfall,#9ececc
+2050-40,Florida Keys Blue,#6eaaa8
+2050-30,Newport Green,#3f7472
+2050-20,Dollar Bill Green,#335755
+2050-10,Salamander,#303f3f
+2051-70,Crystal Blue,#d9ecea
+2051-60,Bird's Egg,#bfddde
+2051-50,Tranquil Blue,#95c3c6
+2051-40,Majestic Blue,#63a0a1
+2051-30,Casco Bay,#316f6e
+2051-20,Pine Green,#2e5e5b
+2051-10,Yukon Green,#305450
+2052-70,Ice Blue,#d6eceb
+2052-60,China Blue,#b4dcdf
+2052-50,Pool Blue,#86c2c9
+2052-40,Blue Spa,#4a9fa2
+2052-30,Tropical Turquoise,#01716d
+2052-20,Marine Aqua,#0b5b53
+2052-10,Ocean Tropic,#1d4f43
+2053-70,Morning Sky Blue,#d7ebed
+2053-60,Tear Drop Blue,#b9dbe1
+2053-50,Passion Blue,#8ec2cb
+2053-40,Blue Lake,#579da6
+2053-30,North Sea Green,#246e74
+2053-20,Dark Teal,#265b5f
+2053-10,Mallard Green,#2a4f50
+2054-70,Clear Skies,#d3ebed
+2054-60,Old Pickup Blue,#b1dbe4
+2054-50,Seaside Blue,#81c1d0
+2054-40,Blue Lagoon,#419dad
+2054-30,Venezuelan Sea,#016c77
+2054-20,Beau Green,#0b575b
+2054-10,Bavarian Forest,#1e4644
+2055-70,Innocence,#d2f0f2
+2055-60,Serenity,#afe2eb
+2055-50,Fairy Tale Blue,#79ccdb
+2055-40,Bahaman Sea Blue,#13acbf
+2055-30,Caribbean Blue Water,#017c8f
+2055-20,Pacific Ocean Blue,#016070
+2055-10,Teal,#154653
+2056-70,Icy Moon Drops,#d4f1f1
+2056-60,Blue Seafoam,#b0e4ea
+2056-50,Baby Boy Blue,#7bd0da
+2056-40,Cool Aqua,#19b0bc
+2056-30,Surf Blue,#01818c
+2056-20,Jade Garden,#01646d
+2056-10,Tucson Teal,#0c474f
+2057-70,Icy Blue,#d6ecef
+2057-60,Blue Flower,#b6dbe5
+2057-50,Turquoise Powder,#88c1d2
+2057-40,Ash Blue,#4e9daf
+2057-30,Naples Blue,#146c7c
+2057-20,Galápagos Turquoise,#205864
+2057-10,River Blue,#264a53
+2058-70,Blue Angel,#d3ebf1
+2058-60,Ocean Breeze,#b1dae9
+2058-50,Aquarium Blue,#81c0d8
+2058-40,Cool Blue,#429bb8
+2058-30,Deep Ocean,#016a86
+2058-20,Slate Teal,#19556b
+2058-10,Twilight,#264556
+2059-70,Fountain Spout,#d0edf3
+2059-60,Splash,#abddef
+2059-50,Pool Party,#77c5e3
+2059-40,Yosemite Blue,#18a2c9
+2059-30,Laguna Blue,#01729d
+2059-20,Caribbean Azure,#01577d
+2059-10,Marine Blue,#1e3f5a
+2060-70,Tear Drop,#cfecf4
+2060-60,Turquoise Haze,#aadcf0
+2060-50,Cayman Blue,#74c2e5
+2060-40,Toronto Blue,#1aa0cd
+2060-30,Seaport Blue,#016fa2
+2060-20,California Blue,#015482
+2060-10,Symphony Blue,#213c5e
+2061-70,Caribbean Mist,#cee8f2
+2061-60,Little Boy Blue,#add6ea
+2061-50,Tidal Wave,#7db8d7
+2061-40,Electric Blue,#3f91b9
+2061-30,Bermuda Blue,#195e83
+2061-20,Champion Cobalt,#274965
+2061-10,Deep Royal,#303a4c
+2062-70,Harbour Fog,#d4e8ee
+2062-60,Blue Hydrangea,#b4d4e2
+2062-50,Blue Jean,#88b6cc
+2062-40,Blue Daisy,#558ea8
+2062-30,Blue Danube,#2e5a71
+2062-20,Gentleman's Gray,#314757
+2062-10,Polo Blue,#333b44
+2063-70,Cumulus Cotton,#d4e9f2
+2063-60,Sapphireberry,#b2d7eb
+2063-50,Blue Marguerite,#85bcdd
+2063-40,Sailor's Sea Blue,#4b94bf
+2063-30,Blueberry,#1b5f8a
+2063-20,Downpour Blue,#26476a
+2063-10,Old Navy,#2f364a
+2064-70,Billowy Down,#cde9f4
+2064-60,Bluebelle,#a9d6f0
+2064-50,Costa Rica Blue,#75bbe4
+2064-40,Clearest Ocean Blue,#3296cb
+2064-30,Ol' Blue Eyes,#0163a1
+2064-20,Patriot Blue,#194b7d
+2064-10,Bold Blue,#2c3659
+2065-70,Bashful Blue,#c9e7f4
+2065-60,Caribbean Coast,#a4d5f1
+2065-50,Blue Wave,#6fb9e6
+2065-40,Utah Sky,#1d95d1
+2065-30,Brilliant Blue,#0164a7
+2065-20,Dark Royal Blue,#154c87
+2065-10,Admiral Blue,#2c3863
+2066-70,Light Blue,#cbe9f4
+2066-60,Honolulu Blue,#a4d7f3
+2066-50,True Blue,#6dbbeb
+2066-40,Rocky Mountain Sky,#1098d9
+2066-30,Big Country Blue,#0167b2
+2066-20,Evening Blue,#014f94
+2066-10,Blue,#243973
+2067-70,White Satin,#d8e6f3
+2067-60,Windmill Wings,#bdd3ee
+2067-50,Summer Blue,#93b4e1
+2067-40,Blue Lapis,#638ac7
+2067-30,Twilight Blue,#375597
+2067-20,Starry Night Blue,#344177
+2067-10,Midnight Navy,#343457
+2068-70,White Heaven,#e3e6f2
+2068-60,Purple Lace,#ccd0eb
+2068-50,Victorian Trim,#abb1dc
+2068-40,California Lilac,#8085bf
+2068-30,Scandinavian Blue,#4f4f8d
+2068-20,Grape Gum,#423e6e
+2068-10,Majestic Violet,#3b3551
+2069-70,Polar White,#e9e9f0
+2069-60,Lavender Ice,#d7d6e6
+2069-50,Blue Orchid,#b9bad3
+2069-40,Violet Stone,#8f90b1
+2069-30,Darkest Grape,#5d5b7d
+2069-20,Blackberry Wine,#49455f
+2069-10,Deep Mulberry,#3d3946
+2070-70,Whisper Violet,#e6e6ee
+2070-60,Lavender Mist,#d0d0e1
+2070-50,Enchanted,#b0b0cc
+2070-40,Spring Purple,#8883a7
+2070-30,Dark Lilac,#554e6e
+2070-20,Plum Royale,#463d51
+2070-10,Tulsa Twilight,#3c343a
+2071-70,Misty Lilac,#ebe4f1
+2071-60,Lily Lavender,#dccfe9
+2071-50,Amethyst Cream,#c0aed8
+2071-40,Crocus Petal Purple,#9b81ba
+2071-30,Mystical Grape,#674c87
+2071-20,Gentle Violet,#533d69
+2071-10,Exotic Purple,#44344e
+2072-70,Raspberry Ice,#ece4eb
+2072-60,Beach Plum,#dacddc
+2072-50,Lavender Lipstick,#beacc3
+2072-40,Wild Orchid,#967f9a
+2072-30,Purple Lotus,#614c63
+2072-20,Black Raspberry,#4e3e4c
+2072-10,Dark Basalt,#41373d
+2073-70,Purple Cream,#f1e4ed
+2073-60,Pale Iris,#e4cde1
+2073-50,Purple Easter Egg,#cdadcb
+2073-40,Purple Hyacinth,#ab80a6
+2073-30,Passion Plum,#774c6f
+2073-20,Autumn Purple,#5e3e55
+2073-10,Dark Purple,#4c3641
+2074-70,Easter Bonnet,#f6e4f0
+2074-60,Bunny Nose Pink,#eecee7
+2074-50,Exotic Fuchsia,#ddadd4
+2074-40,Lilac Pink,#c381b5
+2074-30,Twilight Magenta,#9c4b81
+2074-20,Summer Plum,#7c3d64
+2074-10,Grape Juice,#63344b
+2075-70,Charming Pink,#f7e4f0
+2075-60,Passion Pink,#eecde5
+2075-50,Pink Taffy,#e0abd2
+2075-40,Pink Raspberry,#c77eb0
+2075-30,Pre-Dawn Sky,#a0497e
+2075-20,Mulberry,#803c60
+2075-10,Dark Burgundy,#673448
+2076-70,Nursery Pink,#f8e3ee
+2076-60,Dog's Ear,#f4cbe4
+2076-50,Easter Pink,#e9aad1
+2076-40,Raspberry Mousse,#d77db1
+2076-30,Crushed Berries,#b5457c
+2076-20,Royal Flush,#a13760
+2076-10,Crushed Velvet,#8e2e49
+2077-70,I Love You Pink,#f9e3ef
+2077-60,Valentine's Day,#f5cce6
+2077-50,Pretty Pink,#eca9d4
+2077-40,Spring Azalea,#dc7cb5
+2077-30,Hot Lips,#bd4380
+2077-20,Gypsy Pink,#ac3263
+2077-10,Magenta,#9d294c
+2078-70,Pink Peony,#f9e6ed
+2078-60,Newborn Pink,#f6d1e2
+2078-50,Pink Begonia,#edb1cb
+2078-40,Paradise Pink,#dd86a7
+2078-30,Royal Fuchsia,#be5171
+2078-20,Raspberry Glaze,#ad3e59
+2078-10,Roseate,#9e3549
+2079-70,Candy Stripe,#fbe3ed
+2079-60,Pink Cherub,#f9cee2
+2079-50,Rhododendron,#f3accc
+2079-40,Springtime Bloom,#e57ea8
+2079-30,Peony,#c94571
+2079-20,Blushing Red,#b93254
+2079-10,Candy Cane Red,#ab263d
+2080-70,Aztec Lily,#f9e2e8
+2080-60,Posy Pink,#f4cad8
+2080-50,Bayberry,#e7a8bd
+2080-40,Wild Pink,#d17a92
+2080-30,Cherry Wine,#ae495c
+2080-20,Patriot Red,#9f3c46
+2080-10,Raspberry Truffle,#933639
+2081-70,Flush Pink,#f9e8eb
+2081-60,Pink Lace,#f6d5dd
+2081-50,Pink Ruffle,#eeb7c4
+2081-40,Pink Blossom,#dd8d9c
+2081-30,Vibrant Blush,#bf5b68
+2081-20,Sultan's Palace,#af4954
+2081-10,Burnt Peanut Red,#a24149
+2082-70,Ballerina Pink,#f4e3e7
+2082-60,Pink Innocence,#eacdd5
+2082-50,Damask Rose,#d7adb9
+2082-40,Rosewood,#b8808d
+2082-30,Cherokee Brick,#8d515a
+2082-20,Plum Raisin,#7d4648
+2082-10,Chestnut,#713f3d
+2083-70,Baby Dreams,#f6e4eb
+2083-60,Sweet Naivete,#edccdb
+2083-50,Pink Pansy,#ddabc2
+2083-40,Begonia,#c37f9b
+2083-30,Old Claret,#984d65
+2083-20,Cranberry Cocktail,#84404e
+2083-10,Raisin Torte,#743940
+2084-70,Gentle Blush,#fbe5e9
+2084-60,Early Sunrise,#f7d0da
+2084-50,Rosy Glow,#ebafbf
+2084-40,Precious Pink,#d58396
+2084-30,Rouge,#b3535e
+2084-20,Maple Leaf Red,#924544
+2084-10,Brick Red,#7a3c32
+2085-70,Baby Pink,#f9e4e9
+2085-60,Pink Petals,#f0ceda
+2085-50,Strawberry,#e5adc1
+2085-40,Taste of Berry,#cc7f96
+2085-30,Gypsy Love,#a74f5e
+2085-20,Pottery Red,#864045
+2085-10,Arroyo Red,#6f3832
+2086-70,50's Pink,#fce4eb
+2086-60,Sweet Taffy,#fbcede
+2086-50,Blushing Bride,#f6acc6
+2086-40,Deep Carnation,#ea7c9e
+2086-30,Rosy Blush,#d04667
+2086-20,Rose Parade,#c1334b
+2086-10,Exotic Red,#b42836
+2087-70,Elephant Pink,#fbe8ea
+2087-60,Ribbon Pink,#fbd5dc
+2087-50,Strawberry Sorbet,#f7b7c4
+2087-40,Autumn Red,#ec8b9a
+2087-30,Italiano Rose,#d45462
+2087-20,Watermelon Red,#c63e47
+2087-10,Neon Red,#b92e34
+2088-70,Fond Memory,#f7dad5
+2088-60,Fruit Shake,#edbeb8
+2088-50,Cool Lava,#da9a93
+2088-40,Persimmon,#be6e65
+2088-30,Strawberry Field,#a04c3e
+2088-20,Country Lane,#9b4738
+2088-10,Red Oxide,#974434
+2089-70,Frosted Petal,#faede8
+2089-60,Peach Kiss,#f7dcd7
+2089-50,Salmon Berry,#efc1bb
+2089-40,Tomato Cream Sauce,#e09c92
+2089-30,Pink Mix,#c36d61
+2089-20,Rosy Peach,#b65f50
+2089-10,Iron Ore Red,#aa5546
+2090-70,Spring Pink,#f8dbd6
+2090-60,Strawberry Freeze,#eec1ba
+2090-50,Tender Pink,#db9c95
+2090-40,Wild Flower,#c07166
+2090-30,Terra Cotta Tile,#a24d3f
+2090-20,Rich Chestnut,#9c4938
+2090-10,Grand Canyon Red,#984535
+2091-70,April Pink,#f4dbd6
+2091-60,Heather Pink,#e8c0bb
+2091-50,Rosy Tan,#d29b96
+2091-40,Red River Clay,#b47068
+2091-30,Deep Poinsettia,#984d3f
+2091-20,Rustic Brick,#8f4839
+2091-10,Tea,#8a4435
+2092-70,Fairest Pink,#f1dcd8
+2092-60,Georgia Pink,#e4c2be
+2092-50,Titanic Rose,#cc9f9a
+2092-40,Texas Rose,#aa726a
+2092-30,Boston Brick,#874c41
+2092-20,Sienna,#814739
+2092-10,Clydesdale Brown,#7c4334
+2093-70,Pink Bliss,#f6ebe8
+2093-60,Playful Pink,#f3dbd8
+2093-50,Camellia Pink,#e6bfbc
+2093-40,Belladonna Lily,#cf968f
+2093-30,Colonial Brick,#af6658
+2093-20,Fresh Clay,#8c5143
+2093-10,Cimarron,#764432
+2094-70,Mellow Pink,#f7e9e3
+2094-60,Pleasant Pink,#efd5cf
+2094-50,Desert Rose,#deb7af
+2094-40,Soft Cranberry,#c28d81
+2094-30,Giant Sequoia,#985d4c
+2094-20,Copper Mine,#874e3c
+2094-10,Burnt Cinnamon,#7c4633
+2095-70,Melted Ice Cream,#efe3dc
+2095-60,Southern Comfort,#e0ccc3
+2095-50,Just Beige,#c7aba1
+2095-40,Mudslide,#a58174
+2095-30,Butternut Brown,#7f594a
+2095-20,Antler Brown,#765040
+2095-10,Adirondack Brown,#704c3c
+2096-70,Early Sunset,#f1e5dd
+2096-60,Light Mocha,#e3d0c5
+2096-50,Cappuccino,#cbb0a2
+2096-40,Gaucho Brown,#aa8674
+2096-30,Grandfather Clock Br...,#835c49
+2096-20,Chocolate Truffle,#795340
+2096-10,Seed Brown,#724e3a
+2097-70,Wild Rice,#eee3dd
+2097-60,Misty Blush,#deccc4
+2097-50,Hint of Mauve,#c4aba2
+2097-40,Santa Fe Tan,#a08074
+2097-30,Hedgehog Brown,#7b584a
+2097-20,Morning Coffee,#714f41
+2097-10,Toasted Brown,#6c4b3d
+2098-70,Frosted Café,#ede3dd
+2098-60,Wisp of Mauve,#dccbc4
+2098-50,Flax,#c1aaa2
+2098-40,Café Ole,#9c7e74
+2098-30,Dark Nut Brown,#795649
+2098-20,Roasted Coffee Beans,#6e4d40
+2098-10,Barrel Brown,#68483b
+2099-70,Wheatberry,#eee2db
+2099-60,Malted Milk,#dfcbc3
+2099-50,Café Mocha,#c6aaa0
+2099-40,Autumn Brown,#a27e72
+2099-30,Espresso,#7d5648
+2099-20,Cupcake,#744e3f
+2099-10,Brown,#6f4a3b
+2100-70,Victorian Lace,#efe2dc
+2100-60,Bermuda Sands,#e1ccc4
+2100-50,Pebble Stone,#c7aba1
+2100-40,Appalachian Spring,#a58074
+2100-30,English Brown,#7e5749
+2100-20,Leather Saddle Brown,#764f40
+2100-10,Mocha Madness,#6f4a3a
+2101-70,Tropical Sand,#f0e3de
+2101-60,Pale Cherry Blossom,#e1ccc6
+2101-50,Allspice,#c9aba4
+2101-40,Almond Beige,#a68076
+2101-30,Warm Brownie,#7f564b
+2101-20,Cocoa Brown,#754e41
+2101-10,Suede Brown,#70493c
+2102-70,First Light,#f0e3df
+2102-60,Honey Hut,#e2ccc8
+2102-50,Rose Bisque,#cbaca7
+2102-40,Brown Teepee,#a88079
+2102-30,Pueblo Brown,#80564c
+2102-20,Pumpernickel,#764d41
+2102-10,Earth Brown,#70483c
+2103-70,Strawberry-n-Cream,#eddedb
+2103-60,Pale Berry,#dcc4c1
+2103-50,Sandblast,#c0a09d
+2103-40,Hickory Stick,#9b736e
+2103-30,Peatmoss,#764c42
+2103-20,English Manor,#6e4439
+2103-10,Natural Brown,#694135
+2104-70,Strawberry Yogurt,#edddda
+2104-60,Rose Silk,#dec4c1
+2104-50,Cherry Malt,#c29f9c
+2104-40,New England Brown,#9f736e
+2104-30,Harvest Brown,#7d4c43
+2104-20,Beaver Brown,#75463a
+2104-10,Pancake Syrup,#724336
+2105-70,Savoury Cream,#ede2db
+2105-60,Acapulco Sand,#decac2
+2105-50,Sand Pebble,#c4aaa0
+2105-40,Dusty Ranch Brown,#a17f72
+2105-30,Rabbit Brown,#7b5749
+2105-20,Root Beer Candy,#734f40
+2105-10,Forest Brown,#6d4a3b
+2106-70,Foggy Morning,#ede4dd
+2106-60,Soft Sand,#ddcec6
+2106-50,Driftscape Tan,#c2ada3
+2106-40,Cougar Brown,#9d8275
+2106-30,Pine Cone,#76584a
+2106-20,Auberge,#6e4f40
+2106-10,Java,#684a3b
+2107-70,Cloudy Gray,#ebe5df
+2107-60,Sea Froth,#d9d0c8
+2107-50,Sandlot Gray,#beb0a7
+2107-40,Driftwood,#988578
+2107-30,Rockies Brown,#705a4c
+2107-20,Mocha Brown,#675041
+2107-10,Chocolate Candy Brow...,#624b3c
+2108-70,Lacey Pearl,#e9e6e0
+2108-60,Abalone,#d4d0c8
+2108-50,Silver Fox,#b9b2a8
+2108-40,Stardust,#928679
+2108-30,Brown Horse,#6a5b4d
+2108-20,Sierra Spruce,#614f41
+2108-10,Ferret Brown,#5e4c3e
+2109-70,A la Mode,#e7e3df
+2109-60,Portland Gray,#d4cdc8
+2109-50,Elephant Gray,#b6aca8
+2109-40,Smoked Oyster,#8f807a
+2109-30,Wood Grain Brown,#69564e
+2109-20,Hearthstone Brown,#614e45
+2109-10,Classic Brown,#59463c
+2110-70,Vintage Taupe,#f3eee9
+2110-60,Pampas Grass,#e9ded9
+2110-50,Gobi Desert,#d4c4be
+2110-40,Seaside Sand,#b69e95
+2110-30,Saddle Soap,#896b5a
+2110-20,Brown Tar,#6f5541
+2110-10,Taupe,#5b4531
+2111-70,Calm,#e7e5e0
+2111-60,Barren Plain,#d4d1ca
+2111-50,Stone Harbour,#b5b0a9
+2111-40,Taos Taupe,#8d857b
+2111-30,Mustang,#69584b
+2111-20,Grizzly Bear Brown,#604c3d
+2111-10,Deep Taupe,#5a4435
+2112-70,American White,#e5e4e1
+2112-60,Cement Gray,#cecdcb
+2112-50,Stormy Monday,#afacab
+2112-40,Stone,#87817f
+2112-30,Stone Brown,#60554f
+2112-20,Brown Sugar,#574a43
+2112-10,Mink,#53453d
+2113-70,Antique Pearl,#e5dfde
+2113-60,Porcelain,#d1c6c6
+2113-50,Mauve Desert,#b2a3a5
+2113-40,Cinnamon Slate,#8a7576
+2113-30,Bison Brown,#674c48
+2113-20,Pine Cone Brown,#60443d
+2113-10,Chocolate Sundae,#5c4037
+2114-70,Venetian Marble,#ede8e6
+2114-60,Hint of Violet,#ddd5d4
+2114-50,Victorian Mauve,#c3b6b8
+2114-40,Wet Concrete,#9d8a8a
+2114-30,Desert Shadows,#695654
+2114-20,Mississippi Mud,#53443f
+2114-10,Bittersweet Chocolat...,#443832
+2115-70,Oyster,#edeae9
+2115-60,Majestic Mauve,#dfd9db
+2115-50,Iced Mauve,#c5bcc1
+2115-40,Mauve Blush,#a29296
+2115-30,Amazon Soil,#705c5d
+2115-20,Incense Stick,#594845
+2115-10,Appalachian Brown,#4a3b34
+2116-70,Mirage White,#eceaeb
+2116-60,Touch of Gray,#ddd7de
+2116-50,African Violet,#c2bac5
+2116-40,Hazy Lilac,#9c8f9d
+2116-30,Cabernet,#6c5b65
+2116-20,Vintage Wine,#55474a
+2116-10,Night Shade,#453b37
+2117-70,Dreamy Cloud,#e6e4e8
+2117-60,Winter Gray,#d1ced7
+2117-50,Spring Violet,#b1adbc
+2117-40,Tropical Dusk,#867e90
+2117-30,Shadow,#524b59
+2117-20,Galaxy,#423e45
+2117-10,Carbon Copy,#393638
+2118-70,Heaven,#e2e3e6
+2118-60,Misty Memories,#cbcdd4
+2118-50,Excalibur Gray,#aaacb7
+2118-40,Sea Life,#7c7d89
+2118-30,Ebony Slate,#4b4b54
+2118-20,Toucan Black,#3d3c41
+2118-10,Universal Black,#363536
+2119-70,Full Moon,#e0e3e4
+2119-60,Silver Lining,#c7ccd0
+2119-50,Nickel,#a3aab2
+2119-40,Silver Streak,#767c84
+2119-30,Baby Seal Black,#474b51
+2119-20,Black Berry,#3b3c40
+2119-10,Space Black,#343435
+2120-70,Stone White,#e0e4e4
+2120-60,White Water,#c7ccd0
+2120-50,Silver Spring,#a4abb1
+2120-40,Smoke Gray,#767c83
+2120-30,Witching Hour,#474a50
+2120-20,Black Iron,#3b3d3f
+2120-10,Jet Black,#343435
+2121-70,Chantilly Lace,#f5f7f2
+2121-60,White Diamond,#edf0ed
+2121-50,Iced Cube Silver,#dde2e2
+2121-40,Silver Half Dollar,#c4c9cc
+2121-30,Pewter,#989da0
+2121-20,Steel Wool,#797c7e
+2121-10,Gray,#585858
+2122-70,Snow White,#f2f6f2
+2122-60,Palest Pistachio,#eaf0ee
+2122-50,Iceberg,#d7e1e1
+2122-40,Smoke,#bbc9ca
+2122-30,Cloudy Sky,#909e9f
+2122-20,Steep Cliff Gray,#6f7d7e
+2122-10,Dark Pewter,#4c5857
+2123-70,Ice Mist,#f2f5f2
+2123-60,Sea Foam,#e8f0ed
+2123-50,Ocean Air,#d4e2e2
+2123-40,Gossamer Blue,#b4c9c9
+2123-30,Sea Star,#899f9f
+2123-20,Caribbean Teal,#637d7b
+2123-10,Mediterranean Teal,#475a57
+2124-70,Distant Gray,#f3f5f2
+2124-60,Misty Gray,#e9eceb
+2124-50,Bunny Gray,#d7dcdd
+2124-40,Thundercloud Gray,#b9bec1
+2124-30,Deep Silver,#8c9195
+2124-20,Trout Gray,#6a6e71
+2124-10,Wrought Iron,#4a4b4c
+2125-70,Wedding Veil,#eff1ef
+2125-60,Marilyn's Dress,#e1e5e5
+2125-50,Sweet Innocence,#c8ced2
+2125-40,Shadow Gray,#a3aaaf
+2125-30,Gray Shower,#6e7479
+2125-20,Deep Space,#53575b
+2125-10,Black Panther,#3e4041
+2126-70,Chalk White,#ebeeec
+2126-60,Gray Cloud,#d8dddf
+2126-50,Gray Timber Wolf,#bbc2c7
+2126-40,Sweatshirt Gray,#939a9f
+2126-30,Anchor Gray,#5d6268
+2126-20,Raccoon Fur,#474b4e
+2126-10,Black Tar,#393a3b
+2127-70,Cascade White,#dee3e4
+2127-60,Feather Gray,#c5ccd1
+2127-50,Pike's Peak Gray,#a1abb2
+2127-40,Wolf Gray,#737d84
+2127-30,Gravel Gray,#454b51
+2127-20,Black Ink,#383b3e
+2127-10,Twilight Zone,#353536
+2128-70,Lily White,#e4eaec
+2128-60,Beacon Gray,#ced8df
+2128-50,November Skies,#adbbc9
+2128-40,Oxford Gray,#8391a1
+2128-30,Evening Dove,#525b68
+2128-20,Abyss,#43454c
+2128-10,Black Beauty,#3a3837
+2129-70,Silver Cloud,#dce4e6
+2129-60,Mt. Rainier Gray,#c2ced4
+2129-50,Winter Lake,#9daeb8
+2129-40,Normandy,#6e7f8a
+2129-30,Blue Note,#414c55
+2129-20,Soot,#383d42
+2129-10,Midnight Dream,#333537
+2130-70,Seattle Gray,#dde2e5
+2130-60,Iced Slate,#c2cbd2
+2130-50,New Hope Gray,#9da9b4
+2130-40,Black Pepper,#727d87
+2130-30,Almost Black,#504f54
+2130-20,Deep Caviar,#4a4343
+2130-10,Black Bean Soup,#463d3a
+2131-70,Gray Sky,#dee6e6
+2131-60,Silver Gray,#c5d0d3
+2131-50,Nimbus Gray,#a2b1b5
+2131-40,Smokestack Gray,#738388
+2131-30,Lead Gray,#444f53
+2131-20,Midnight,#383e40
+2131-10,Black Satin,#323536
+2132-70,Mineral Ice,#dee2e2
+2132-60,Metallic Silver,#c4cace
+2132-50,Pilgrim Haze,#9fa8ae
+2132-40,Eclipse,#727a81
+2132-30,Black Horizon,#45494e
+2132-20,Ebony King,#393b3d
+2132-10,Black,#323233
+2133-70,Tundra,#e3e5e4
+2133-60,Sidewalk Gray,#cccfd1
+2133-50,Pigeon Gray,#abafb4
+2133-40,Dior Gray,#7d8085
+2133-30,Day's End,#4c4c50
+2133-20,Black Jack,#3e3e3f
+2133-10,Onyx,#363535
+2134-70,Genesis White,#e2e5e4
+2134-60,Whitestone,#cacfcf
+2134-50,Gull Wing Gray,#a8afb1
+2134-40,Whale Gray,#7f8384
+2134-30,Iron Mountain,#585654
+2134-20,Midsummer Night,#514b46
+2134-10,Night Horizon,#4c443e
+2135-70,Patriotic White,#e5eeec
+2135-60,Summer Shower,#cfdee0
+2135-50,Soft Chinchilla,#aec4c9
+2135-40,Province Blue,#839ca2
+2135-30,Nocturnal Gray,#56666c
+2135-20,Stonecutter,#444d50
+2135-10,Blacktop,#3a3e3d
+2136-70,Whispering Spring,#dde8e7
+2136-60,Harbour Haze,#c4d5d5
+2136-50,Colorado Gray,#9fb6b9
+2136-40,Aegean Teal,#708a8c
+2136-30,Amazon Green,#425558
+2136-20,Regent Green,#374143
+2136-10,Black Knight,#313637
+2137-70,White Wisp,#e7e9e2
+2137-60,Gray Owl,#d4d5cd
+2137-50,Sea Haze,#b4b6ac
+2137-40,Desert Twilight,#8e8d80
+2137-30,Durango,#655e4f
+2137-20,Char Brown,#5b5041
+2137-10,Otter Brown,#55493a
+2138-70,Gray Lake,#e5e9e3
+2138-60,Gray Cashmere,#d0d6ce
+2138-50,Misted Green,#b1b9af
+2138-40,Carolina Gull,#868e82
+2138-30,Mohegan Sage,#605f51
+2138-20,Green Grove,#565143
+2138-10,Southern Vine,#504a3c
+2139-70,White Ice,#ebefea
+2139-60,Green Tint,#dbe1db
+2139-50,Silver Marlin,#c1c9c2
+2139-40,Heather Gray,#9aa297
+2139-30,Sharkskin,#6e6d5f
+2139-20,Dakota Woods Green,#575445
+2139-10,River Rock,#474334
+2140-70,Winter White,#e8eae3
+2140-60,Moonshine,#d7d9d0
+2140-50,Gray Horse,#babcb2
+2140-40,Storm Cloud Gray,#929385
+2140-30,Dark Olive,#626354
+2140-20,Tuscany Green,#555548
+2140-10,Fatigue Green,#4c4c40
+2141-70,Vanilla Milkshake,#edede4
+2141-60,Titanium,#dbdcd0
+2141-50,Horizon Gray,#c0c1b2
+2141-40,Creekside Green,#9b9986
+2141-30,Army Green,#6b6956
+2141-20,Cabbage Patch,#5d5b48
+2141-10,Artichoke,#545241
+2142-70,Icicle,#eeeee4
+2142-60,November Rain,#e1dfd1
+2142-50,Gray Mirage,#c9c6b3
+2142-40,Dry Sage,#a4a085
+2142-30,Mountain Moss,#767156
+2142-20,Turtle Green,#6a654a
+2142-10,Mediterranean Olive,#5f5b43
+2143-70,Simply White,#f7f7ee
+2143-60,Moonlight White,#f0efe4
+2143-50,Old Prairie,#e3e1d2
+2143-40,Camouflage,#ccc8b1
+2143-30,Olive Branch,#a69d7a
+2143-20,Alligator Green,#8e845f
+2143-10,Sage,#776d4c
+2144-70,Snowfall White,#f7f8ef
+2144-60,Cloud Nine,#eff0e6
+2144-50,Silken Pine,#e1e4d5
+2144-40,Soft Fern,#c9cbb3
+2144-30,Rosemary Sprig,#a1a37f
+2144-20,Eucalyptus Leaf,#84865f
+2144-10,Guacamole,#656843
+2145-70,Cotton Balls,#f6f7ec
+2145-60,Minced Onion,#f1f1e0
+2145-50,Limesicle,#e4e5cb
+2145-40,Fernwood Green,#cdcda4
+2145-30,Brookside Moss,#a7a66d
+2145-20,Terrapin Green,#8c8d51
+2145-10,Avocado,#6f753b
+2146-70,Bavarian Cream,#f8f8e8
+2146-60,Cream Silk,#f3f2d8
+2146-50,Rainforest Dew,#e8e6be
+2146-40,Pale Avocado,#d4d090
+2146-30,Split Pea,#b2ae56
+2146-20,Forest Moss,#9b993e
+2146-10,Dark Celery,#84882f
+2147-70,Alpine White,#f5f5e4
+2147-60,Dark Linen,#ededd0
+2147-50,Pale Sea Mist,#deddb2
+2147-40,Dill Pickle,#c5c285
+2147-30,Jalapeño Pepper,#a29e53
+2147-20,Olive Moss,#959247
+2147-10,Oregano,#8d8940
+2148-70,Mountain Peak White,#f8f6ec
+2148-60,Timid White,#f3efde
+2148-50,Sandy White,#e8e0c6
+2148-40,Light Khaki,#d4c69e
+2148-30,Military Tan,#b29d69
+2148-20,Thyme,#9e8853
+2148-10,Foot Hills,#8c7845
+2149-70,White Chocolate,#f6f4e4
+2149-60,White Marigold,#eee9d0
+2149-50,Mellowed Ivory,#dfd7b0
+2149-40,Timothy Straw,#c7ba85
+2149-30,Fresh Olive,#ac9655
+2149-20,G.I. Green,#96874a
+2149-10,Newt Green,#8c7e44
+2150-70,Easter Lily,#f8f5e3
+2150-60,Pale Celery,#f3ecce
+2150-50,Hampton Green,#e8ddaf
+2150-40,Spring Dust,#d4c382
+2150-30,Savannah Green,#bba150
+2150-20,Lichen Green,#a99444
+2150-10,Willow Green,#a08d40
+2151-70,Powder Sand,#f6f3e2
+2151-60,Linen Sand,#f1e9cc
+2151-50,Bronzed Beige,#e9d9ae
+2151-40,Sulfur Yellow,#d3bb80
+2151-30,Ochre,#bc9a52
+2151-20,Golden Chalice,#ad8e47
+2151-10,Mustard Olive,#a18643
+2152-70,Mayonnaise,#faf6e6
+2152-60,Mannequin Cream,#f8edd3
+2152-50,Golden Straw,#f0deb6
+2152-40,Golden Tan,#e1c48a
+2152-30,Autumn Gold,#c69f56
+2152-20,Aztec Yellow,#b99146
+2152-10,Medieval Gold,#ae873f
+2153-70,Ivory Tusk,#f9f2de
+2153-60,Rich Cream,#f3e5c6
+2153-50,Desert Tan,#e7d0a2
+2153-40,Cork,#d2b172
+2153-30,Tapestry Gold,#b08941
+2153-20,Corduroy,#a17b36
+2153-10,Golden Bark,#97732f
+2154-70,Vanilla Ice Cream,#fbf4e1
+2154-60,Filtered Sunlight,#fbeccd
+2154-50,Straw,#f6dbaa
+2154-40,York Harbour Yellow,#ebc27d
+2154-30,Buttercup,#d6a24c
+2154-20,Spicy Mustard,#cd963e
+2154-10,Yellow Oxide,#c68f39
+2155-70,Cotton Tail,#fcf5dd
+2155-60,Cream Yellow,#fdecc4
+2155-50,Suntan Yellow,#fcdda0
+2155-40,Semolina,#f5c46c
+2155-30,Yellow Marigold,#eba832
+2155-20,Gold Mine,#dd9323
+2155-10,Desert Sunset,#d78b1b
+2156-70,Fine China,#fcf3dd
+2156-60,Soft Beige,#fce8c6
+2156-50,Asbury Sand,#f9d4a2
+2156-40,August Morning,#edb46e
+2156-30,Jack O'Lantern,#d88d3c
+2156-20,Pumpkin Blush,#cd802e
+2156-10,Autumn Orange,#c67727
+2157-70,Ivory Tower,#fcf3e5
+2157-60,Tudor Cream,#fde8d0
+2157-50,Crisp Straw,#fad6b1
+2157-40,Beeswax,#efb884
+2157-30,Butterscotch,#d99151
+2157-20,Golden Harvest,#ce8442
+2157-10,Golden Dunes,#c67c3b
+2158-70,Cream Froth,#fbf4e4
+2158-60,Lion Yellow,#fbe9cf
+2158-50,Manila,#f5d7af
+2158-40,Golden Mist,#e9ba82
+2158-30,Delightful Golden,#d29851
+2158-20,Venetian Gold,#c78846
+2158-10,Dried Mustard,#bf803f
+2159-70,White Cloud,#fbf4e3
+2159-60,Cream,#fcebce
+2159-50,Wheatfield,#f8dbae
+2159-40,Amber Waves,#edc080
+2159-30,Apple Crisp,#d79e4e
+2159-20,Peanut Butter,#cd9141
+2159-10,Dash of Curry,#c58a3b
+2160-70,Sugar Cookie,#faf3e1
+2160-60,Kansas Grain,#f9e9cd
+2160-50,Oklahoma Wheat,#f1d6ad
+2160-40,Roasted Sesame Seed,#e1ba80
+2160-30,Maple Sugar,#ca9850
+2160-20,Turmeric,#bb8845
+2160-10,Caramel Corn,#b3813e
+2161-70,Woodland Snow,#f8f0e2
+2161-60,Hazelnut Cream,#f2e2cd
+2161-50,Yellow Squash,#e4caab
+2161-40,Acorn Yellow,#cea980
+2161-30,Dark Mustard,#ac7f52
+2161-20,Tawny,#a07348
+2161-10,Coppertone,#976c42
+2162-70,October Sky,#f6eddd
+2162-60,Mystic Beige,#edddc6
+2162-50,Arizona Tan,#dcc4a5
+2162-40,Peanut Shell,#c19e74
+2162-30,Warm Tan,#9a7346
+2162-20,Desert Camel,#8d673c
+2162-10,Autumn Bronze,#845f35
+2163-70,Winter Sky,#f5ece0
+2163-60,Latte,#ecdccb
+2163-50,Burlap,#dbc1ab
+2163-40,Metallic Gold,#bf9a7d
+2163-30,Penny,#996f50
+2163-20,Pony Brown,#8e6446
+2163-10,Log Cabin,#865d40
+2164-70,Candle White,#f3e9de
+2164-60,Soft Satin,#e7d5c5
+2164-50,Saint Martin Sand,#d2b8a4
+2164-40,Serengeti Sand,#b28f75
+2164-30,Rich Clay Brown,#8b6449
+2164-20,Marsh Brown,#7f593e
+2164-10,Saddle Brown,#775239
+2165-70,Butter Pecan,#f9f2e2
+2165-60,Durango Dust,#f6e6cd
+2165-50,Natural Sand,#ecd3ae
+2165-40,Dark Beige,#d9b382
+2165-30,Golden Retriever,#bb8c53
+2165-20,Golden Meadow,#af7f47
+2165-10,Camel,#a6773f
+2166-70,Adobe White,#fbeedc
+2166-60,Pale Oats,#fadfc4
+2166-50,Creamy Orange,#f2c6a1
+2166-40,Soft Pumpkin,#e2a26e
+2166-30,Bronze Tone,#c8783f
+2166-20,Caramel Latte,#bd6c33
+2166-10,Gold Rush,#b6642d
+2167-70,Summer Peach,#fdf2e5
+2167-60,Sweet Salmon,#fee5d2
+2167-50,Perfect Peach,#fcd0b4
+2167-40,Toffee Orange,#f2af85
+2167-30,Harvest Moon,#dc8551
+2167-20,Pumpkin Pie,#d17741
+2167-10,Burnt Caramel,#c86d38
+2168-70,Sun Kissed Peach,#fdf0e5
+2168-60,Peach Nectar,#fee4d2
+2168-50,Summer Melon,#fccdb4
+2168-40,Peachland,#f3ac86
+2168-30,Orange Blossom,#dd8153
+2168-20,Pumpkin Cream,#d27143
+2168-10,Fall Harvest,#c96739
+2169-70,Sun Washed,#feefe6
+2169-60,Peach Cloud,#ffe1d4
+2169-50,Malibu Peach,#fec9b7
+2169-40,Peach Cobbler,#f6a487
+2169-30,Oriole,#e27852
+2169-20,Orange Parrot,#d5663f
+2169-10,Racing Orange,#cd5b33
+2170-70,Soft White,#fbeee4
+2170-60,Sunlit Coral,#faded0
+2170-50,Teacup Rose,#f5c4b3
+2170-40,Coral Spice,#eb9f83
+2170-30,Autumn Cover,#d66f4f
+2170-20,Tropical Orange,#cc5f3e
+2170-10,Fireball Orange,#c45333
+2171-70,Pink Swirl,#fdebe7
+2171-60,Rose Reflection,#fedbd6
+2171-50,Pearly Pink,#f9bfb9
+2171-40,Passion Fruit,#eb968a
+2171-30,Adobe Orange,#d46752
+2171-20,Fire Dance,#be553e
+2171-10,Navajo Red,#ac4931
+2172-70,Spring Blossom,#f5dad6
+2172-60,Pink Hibiscus,#ebc0ba
+2172-50,Bouquet Rose,#d69b95
+2172-40,Raspberry Parfait,#b87168
+2172-30,Mexicana,#9b4c3e
+2172-20,Mars Red,#934838
+2172-10,Copper Clay,#8f4433
+2173-70,Gentle Butterfly,#f8e9e3
+2173-60,Just Peachy,#f1d6cf
+2173-50,Coral Dust,#e3b9b1
+2173-40,Antique Rose,#c98e82
+2173-30,Salmon Stream,#9f5e4c
+2173-20,Tawny Rose,#8e4f3b
+2173-10,Earthly Russet,#814632
+2174-70,Cream Puff,#faeae5
+2174-60,Dream Whip,#f5d8d2
+2174-50,Eraser Pink,#e9bcb5
+2174-40,Dusty Mauve,#d39286
+2174-30,Sedona Clay,#ac614f
+2174-20,Cinnamon,#99503c
+2174-10,Toasted Chestnut,#89452f
+2175-70,Peach Parfait,#fae8db
+2175-60,Light Salmon,#f7d5c2
+2175-50,Peach Blossom,#ebb69e
+2175-40,Adobe Dust,#d58e6d
+2175-30,Rust,#b76441
+2175-20,Pilgrimage Foliage,#ae5a36
+2175-10,Aztec Brick,#a75431
