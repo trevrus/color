@@ -1,0 +1,201 @@
+colorCode,colorName,hexCode
+SW9501,Oat Milk,#DEDACD
+SW9502,Arrowroote,#E4DECF
+SW9503,Cheviot,#F6F2E8
+SW9504,Cold Foam,#EFECE3
+SW9505,Frost Bite,#F6F0E5
+SW9506,Warm Winter,#E1D9C6
+SW9507,Cream and Sugar,#DDCFB9
+SW9508,Natural Wool,#D7C9AE
+SW9509,Steamed Chai,#E0D4BD
+SW9510,Peace of Mind,#C4B9A3
+SW9511,Warm Oats,#D8CFBA
+SW9512,Threaded Loom,#CEC2AA
+SW9513,Sleepy Owlet,#B5A78D
+SW9514,Zinc Luster,#8C8373
+SW9515,Tungsten,#584E41
+SW9516,Accolade,#D5CEBF
+SW9517,Outrigger,#BBB2A0
+SW9518,Featherstone,#99917C
+SW9519,Country Tweed,#837B68
+SW9520,Nocturne,#544E42
+SW9521,Simple Stone,#CDC7B7
+SW9522,Meander,#B6AE99
+SW9523,Canal Street,#969281
+SW9524,Crooked River,#797869
+SW9525,Hidden Trail,#5F5B4D
+SW9526,Woolen Mittens,#BFB397
+SW9527,Worn Khaki,#A69C81
+SW9528,Vintage,#908468
+SW9529,Twig Basket,#7D6E52
+SW9530,Momentum,#5C4E2E
+SW9531,Stone Guardians,#CABA97
+SW9532,Earthy Ochre,#BEAE88
+SW9533,Rattan Palm,#9E8E6C
+SW9534,River Reed,#94876E
+SW9535,Nettle,#665B44
+SW9536,Lamb's Wool,#CAB598
+SW9537,Sugared Almond,#B49D7B
+SW9538,Tangled Twine,#A18A67
+SW9539,Shaker Peg,#8D7553
+SW9540,Timber Beam,#796040
+SW9541,White Snow,#F5F4EE
+SW9542,Natural White,#ECEBE8
+SW9543,Gypsum,#EAEBE7
+SW9544,Dashing,#EAEBE8
+SW9545,Ghosted,#E2E0DC
+SW9546,Lunar Lite,#E0DDD8
+SW9547,Vessel,#CDC8BF
+SW9548,Sweater Weather,#CCCCC5
+SW9549,Touch of Grey,#D1CFCA
+SW9550,Mercurial,#D1CCC6
+SW9551,Skipping Rocks,#D1D0C9
+SW9552,Antimony,#C7C8C1
+SW9553,Allegory,#B4B2A9
+SW9554,Going Grey,#83807A
+SW9555,Storm Warning,#696863
+SW9556,Intrepid Grey,#E0E2E0
+SW9557,Autonomous,#C6C7C5
+SW9558,Castlegate,#A0A5A5
+SW9559,Scattered Showers,#7B8285
+SW9560,Night Out,#656A6E
+SW9561,Guild Grey,#D2D1CB
+SW9562,Fortitude,#C6C5C1
+SW9563,Bedrock,#9E9D99
+SW9564,Before the Storm,#74777A
+SW9565,Forged Steel,#5B5B59
+SW9566,Grey Heron,#D6D2CA
+SW9567,Viaduct,#C1BBB0
+SW9568,Smooth Stone,#A8A298
+SW9569,Alloy,#8E8A81
+SW9570,Ironclad,#615C55
+SW9571,Solstice,#DBD9D2
+SW9572,Warm Pewter,#B4ADA6
+SW9573,Hibernate,#ACA69F
+SW9574,Hulett Ore,#726F6C
+SW9575,Metropolis,#59504F
+SW9576,Whirlwind,#D8CFC6
+SW9577,Soft Suede,#D0C6B8
+SW9578,Restoration,#AFA499
+SW9579,Timeless Taupe,#908379
+SW9580,Cracked Pepper,#483C37
+SW9581,Cotton ,#EEEBE1
+SW9582,White Sand,#EDECE7
+SW9583,Sanctuary,#E6E2D9
+SW9584,Mortar,#E3DFD5
+SW9585,Sunbleached,#E5E0D7
+SW9586,White Sesame,#E3DBCD
+SW9587,Mushroom,#D0C7B7
+SW9588,High Sierra,#C8C0B3
+SW9589,Limewash,#DBD5CB
+SW9590,Taupe of the Morning,#DAD2C6
+SW9591,Whisper,#BBB2A3
+SW9592,Illusion,#B0A899
+SW9593,Lauriston Stone,#868172
+SW9594,Settlement,#7E7970
+SW9595,Braintree,#65635B
+SW9596,Pachyderm,#BAB3A6
+SW9597,Western Reserve,#A8A294
+SW9598,Solitary Slate,#80796D
+SW9599,Limestone,#6A655C
+SW9600,Armory,#413D3C
+SW9601,Symmetry,#D5CBBE
+SW9602,Studio Beige,#C1B2A1
+SW9603,Quarry Stone,#978E7F
+SW9604,Tea Leaf,#625346
+SW9605,Clove,#453E39
+SW9606,Slumber Sloth,#CEC5B6
+SW9607,Tanglewood,#9B8F7E
+SW9608,Habitat,#897D6D
+SW9609,Landmark,#766859
+SW9610,Stony Creek,#57534E
+SW9611,Minimalist,#CABEAD
+SW9612,Perfect Khaki,#B2A492
+SW9613,Terrain,#8C8475
+SW9614,Carriage Stone,#7C7466
+SW9615,Prospect,#62584B
+SW9616,Dumpling,#D8D0C1
+SW9617,Beachcomber,#D0C1AC
+SW9618,Woodbridge,#9F8E7A
+SW9619,Teakwood,#8D7E6D
+SW9620,Prelude,#5B564F
+SW9621,Clean Slate,#E0E3E2
+SW9622,White Sail,#EBEBE7
+SW9623,Snowbelt,#EEF1EC
+SW9624,Winsome Grey,#E7E9E7
+SW9625,Grey Mist,#E4E1D6
+SW9626,Glacier Bay,#E1E1DB
+SW9627,Pacific Fog,#DCDCD5
+SW9628,Winter Walk,#D8D5CC
+SW9629,Constellation,#CDCCC3
+SW9630,Moorstone,#CFD1CA
+SW9631,Mantra,#DCE2DF
+SW9632,Serenely,#CED7D5
+SW9633,Silver Lake,#B6C3C4
+SW9634,Morning at Sea,#82979B
+SW9635,Stargazer,#60757A
+SW9636,Windchill,#D5D8D7
+SW9637,Mineral,#B0B7B7
+SW9638,Breakwater,#A2A8A6
+SW9639,Rain Cloud,#536168
+SW9640,Sea Mariner,#434A54
+SW9641,Dew Drop,#D4DCDC
+SW9642,Silver Tipped Sage,#BFC2BF
+SW9643,Eventide,#A3AFAC
+SW9644,Portsmouth,#768482
+SW9645,Big Dipper,#41494B
+SW9646,Create,#C9CABF
+SW9647,Soft Sage,#BCBCAE
+SW9648,Frosted Fern,#A7A796
+SW9649,Willowleaf,#85877B
+SW9650,Succulent,#616C64
+SW9651,Sea Spray,#C8CEC6
+SW9652,Hazel Gaze,#B8BFB1
+SW9653,Forever Green,#AAB4A7
+SW9654,Taiga,#768078
+SW9655,Mountain Pass,#5C6A6A
+SW9656,Pine Frost,#D0D5CB
+SW9657,Piedmont,#C2CEC5
+SW9658,Fresh Eucalyptus,#ADBCB4
+SW9659,Marine,#94A69D
+SW9660,Tarragon,#424E53
+SW9661,Radiant Dawn,#EBE0CE
+SW9662,Fresh Zest,#F5E9CF
+SW9663,Honeypot,#F6DEB3
+SW9664,Sun Salutation,#F5CF92
+SW9665,Sunny Side Up,#F7CE65
+SW9666,Barely Pear,#EDEBDB
+SW9667,Carambola,#EFEBD1
+SW9668,Wild Lime,#E3DEB3
+SW9669,Glade Green,#A4A571
+SW9670,Olivetone,#4E6342
+SW9671,Serendipity,#E9EDE7
+SW9672,Wavecrest,#D3DCCD
+SW9673,Valleyview,#C2CCAC
+SW9674,Leaflet,#8B987B
+SW9675,Westhaven,#2A4442
+SW9676,Green Glimpse,#E7EAE3
+SW9677,Kingston,#D4DCD3
+SW9678,Holly Glen,#BDCBBB
+SW9679,Juniper,#658375
+SW9680,Night Watch,#303636
+SW9681,Rainsong,#DDE6E5
+SW9682,Silent Ripple,#D7E1E5
+SW9683,Lakeside,#ADB8C0
+SW9684,Azure Tide,#436585
+SW9685,After the Storm,#2A3037
+SW9686,Opalescent,#DFE0E3
+SW9687,Blue Iris,#DCDEE0
+SW9688,Modern Lavender,#A8AAB3
+SW9689,Ripe Berry,#5C5666
+SW9690,Mountain Fig,#383C49
+SW9691,Crystalline,#E9E3DE
+SW9692,Cotton Candy,#F2E0DF
+SW9693,Rose Pink,#EECACD
+SW9694,Wild Poppy,#B85B57
+SW9695,Beetroot,#833337
+SW9696,Pale Pink,#EEE6DE
+SW9697,Lotus Petal,#F3DFD6
+SW9698,Corallite,#F0DFCD
+SW9699,Stone Fruit,#F2A28C
+SW9700,Full Bloom,#D16F65
