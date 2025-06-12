@@ -1,0 +1,145 @@
+color_code,color_name,hex_code,manufacturer,deck
+CW-5,Harwood Putty,#EEF0E8,Benjamin Moore,Williamsburg
+CW-10,Capitol White,#F6F3E6,Benjamin Moore,Williamsburg
+CW-15,Parish White,#EFECD9,Benjamin Moore,Williamsburg
+CW-20,Geddy White,#E9E4CC,Benjamin Moore,Williamsburg
+CW-25,Williamsburg Stone,#D3C8A9,Benjamin Moore,Williamsburg
+CW-30,Market Square Shell,#C6BDA3,Benjamin Moore,Williamsburg
+CW-35,Palace Tan,#9E9173,Benjamin Moore,Williamsburg
+CW-40,Tavern Gray,#928B76,Benjamin Moore,Williamsburg
+CW-45,York Gray,#D3CCBA,Benjamin Moore,Williamsburg
+CW-50,Tyler Gray,#C6BFAE,Benjamin Moore,Williamsburg
+CW-55,Finnie Gray,#B5AD9A,Benjamin Moore,Williamsburg
+CW-60,Cole Stone,#A39987,Benjamin Moore,Williamsburg
+CW-65,Gunsmith Gray,#868475,Benjamin Moore,Williamsburg
+CW-70,Pelham Gray,#857B68,Benjamin Moore,Williamsburg
+CW-75,Randolph Stone,#857E70,Benjamin Moore,Williamsburg
+CW-80,Carter Gray,#837D70,Benjamin Moore,Williamsburg
+CW-85,Randolph Gray,#59594F,Benjamin Moore,Williamsburg
+CW-90,Tavern Charcoal,#535045,Benjamin Moore,Williamsburg
+CW-95,Lime White,#EBE4D3,Benjamin Moore,Williamsburg
+CW-100,Prentis Cream,#E9E2CD,Benjamin Moore,Williamsburg
+CW-105,Bracken Cream,#EBE1C5,Benjamin Moore,Williamsburg
+CW-110,Calcite,#F8ECCE,Benjamin Moore,Williamsburg
+CW-115,Cornice Tan,#E3D4B4,Benjamin Moore,Williamsburg
+CW-120,Bracken Biscuit,#D6C4A3,Benjamin Moore,Williamsburg
+CW-125,Brush Beige,#B9A488,Benjamin Moore,Williamsburg
+CW-130,Coffeehouse Tan,#B6A184,Benjamin Moore,Williamsburg
+CW-135,Raleigh Sorrel,#8F765A,Benjamin Moore,Williamsburg
+CW-140,Timson Sand,#D9CEBA,Benjamin Moore,Williamsburg
+CW-145,Brick House Tan,#C9BDA8,Benjamin Moore,Williamsburg
+CW-150,Everard Coffee,#8B7B67,Benjamin Moore,Williamsburg
+CW-155,Revolutionary Storm,#928679,Benjamin Moore,Williamsburg
+CW-160,Dixon Brown,#6A5B4D,Benjamin Moore,Williamsburg
+CW-165,Coffeehouse Chocolate,#51392E,Benjamin Moore,Williamsburg
+CW-170,Tarpley Brown,#4A3931,Benjamin Moore,Williamsburg
+CW-175,Tucker Chocolate,#4B413F,Benjamin Moore,Williamsburg
+CW-180,Bucktrout Brown,#362E2C,Benjamin Moore,Williamsburg
+CW-185,Randolph Bisque,#EBD7B9,Benjamin Moore,Williamsburg
+CW-190,Raleigh Tan,#CDB093,Benjamin Moore,Williamsburg
+CW-195,Chowning's Tan,#A88769,Benjamin Moore,Williamsburg
+CW-200,Franklin White,#F2E8D5,Benjamin Moore,Williamsburg
+CW-205,Raleigh Peach,#E8CDB9,Benjamin Moore,Williamsburg
+CW-210,Galt Peach,#CFA68A,Benjamin Moore,Williamsburg
+CW-215,Custis Salmon,#DF9D8E,Benjamin Moore,Williamsburg
+CW-220,Lightfoot Salmon,#C68F7A,Benjamin Moore,Williamsburg
+CW-225,Wythe Rose,#C18F80,Benjamin Moore,Williamsburg
+CW-230,Carter Red,#C17161,Benjamin Moore,Williamsburg
+CW-235,Brickyard Clay,#A6665A,Benjamin Moore,Williamsburg
+CW-240,Walnut,#916659,Benjamin Moore,Williamsburg
+CW-245,St. George Red,#90524D,Benjamin Moore,Williamsburg
+CW-250,Carriage Red,#723229,Benjamin Moore,Williamsburg
+CW-255,Palace Arms Red,#793D37,Benjamin Moore,Williamsburg
+CW-260,Reid Brown,#70463A,Benjamin Moore,Williamsburg
+CW-265,Charlton Brown,#6A3E2E,Benjamin Moore,Williamsburg
+CW-270,Nicolson Red,#65423E,Benjamin Moore,Williamsburg
+CW-275,Ludwell White,#F9EAC8,Benjamin Moore,Williamsburg
+CW-280,Moir Gold,#F3CE90,Benjamin Moore,Williamsburg
+CW-285,Gamboge,#E7B372,Benjamin Moore,Williamsburg
+CW-290,English Ochre,#BE7E49,Benjamin Moore,Williamsburg
+CW-295,Hale Orange,#C97249,Benjamin Moore,Williamsburg
+CW-300,Tucker Orange,#E0755E,Benjamin Moore,Williamsburg
+CW-305,Claret,#CD756A,Benjamin Moore,Williamsburg
+CW-310,China Red,#B05D4B,Benjamin Moore,Williamsburg
+CW-315,Cornwallis Red,#BE4739,Benjamin Moore,Williamsburg
+CW-320,Dragons Blood,#AC4931,Benjamin Moore,Williamsburg
+CW-325,Brickyard Red,#995A4A,Benjamin Moore,Williamsburg
+CW-330,Cochineal Red,#9F4032,Benjamin Moore,Williamsburg
+CW-335,King's Red,#A7453E,Benjamin Moore,Williamsburg
+CW-340,Greenhow Vermillion,#AE4440,Benjamin Moore,Williamsburg
+CW-345,Travers Red,#A04653,Benjamin Moore,Williamsburg
+CW-350,Barrett Brick,#8D515A,Benjamin Moore,Williamsburg
+CW-355,Carter Plum,#744551,Benjamin Moore,Williamsburg
+CW-360,Powell Smokehouse,#8F807A,Benjamin Moore,Williamsburg
+CW-365,Byrd Beige,#E5CBA0,Benjamin Moore,Williamsburg
+CW-370,Sweeney Yellow,#E2C592,Benjamin Moore,Williamsburg
+CW-375,Tavern Ochre,#D7AF74,Benjamin Moore,Williamsburg
+CW-380,Massicot,#C89656,Benjamin Moore,Williamsburg
+CW-385,Coffeehouse Ochre,#C39C64,Benjamin Moore,Williamsburg
+CW-390,Bryan Ochre,#B38B5A,Benjamin Moore,Williamsburg
+CW-395,Governor's Gold,#F0D697,Benjamin Moore,Williamsburg
+CW-400,Damask Yellow,#E9CE84,Benjamin Moore,Williamsburg
+CW-405,Damask Gold,#DEB659,Benjamin Moore,Williamsburg
+CW-410,Chamber Yellow,#F0E6BB,Benjamin Moore,Williamsburg
+CW-415,Wythe Tan,#E0CF9E,Benjamin Moore,Williamsburg
+CW-420,Wythe Gold,#D5BD80,Benjamin Moore,Williamsburg
+CW-425,Palace Ochre,#BC9A52,Benjamin Moore,Williamsburg
+CW-430,Scrivener Gold,#B8A06E,Benjamin Moore,Williamsburg
+CW-435,Everard Gold,#AE9668,Benjamin Moore,Williamsburg
+CW-440,Gloucester Green,#DBD5B3,Benjamin Moore,Williamsburg
+CW-445,Burwell Green,#C2B98D,Benjamin Moore,Williamsburg
+CW-450,Greenhow Moss,#A7A66D,Benjamin Moore,Williamsburg
+CW-455,Green Earth,#E8E6BE,Benjamin Moore,Williamsburg
+CW-460,Green Umber,#D4D090,Benjamin Moore,Williamsburg
+CW-465,Parrot Green,#B3B36B,Benjamin Moore,Williamsburg
+CW-470,Timson Green,#6F753B,Benjamin Moore,Williamsburg
+CW-475,Palmer Green,#605E3A,Benjamin Moore,Williamsburg
+CW-480,Bassett Hall Green,#A8A888,Benjamin Moore,Williamsburg
+CW-485,Burgess Green,#BBBE9A,Benjamin Moore,Williamsburg
+CW-490,Levingston Green,#C9CDAE,Benjamin Moore,Williamsburg
+CW-495,Russell Green,#A3AC88,Benjamin Moore,Williamsburg
+CW-500,Nicolson Green,#76816B,Benjamin Moore,Williamsburg
+CW-505,Windsor Green,#495033,Benjamin Moore,Williamsburg
+CW-510,Waller Green,#373B33,Benjamin Moore,Williamsburg
+CW-515,Sea Green,#A4B793,Benjamin Moore,Williamsburg
+CW-520,Palace Green,#778D6F,Benjamin Moore,Williamsburg
+CW-525,Raleigh Green,#5A7F60,Benjamin Moore,Williamsburg
+CW-530,Colonial Verdigris,#3F5034,Benjamin Moore,Williamsburg
+CW-535,Buffett Green,#275E42,Benjamin Moore,Williamsburg
+CW-540,Dunmore Green,#519A6F,Benjamin Moore,Williamsburg
+CW-545,Spotswood Teal,#6F9587,Benjamin Moore,Williamsburg
+CW-550,Geddy Verdigris,#2F8C7F,Benjamin Moore,Williamsburg
+CW-555,Goodwin Green,#445952,Benjamin Moore,Williamsburg
+CW-560,Galt Blue,#BFD7CE,Benjamin Moore,Williamsburg
+CW-565,Anderson Blue,#97C0B9,Benjamin Moore,Williamsburg
+CW-570,Mayo Teal,#568888,Benjamin Moore,Williamsburg
+CW-575,Everard Blue,#3E555A,Benjamin Moore,Williamsburg
+CW-580,Wetherburn's Blue,#708587,Benjamin Moore,Williamsburg
+CW-585,Ewing Blue,#D1E3E1,Benjamin Moore,Williamsburg
+CW-590,Williamsburg Wythe Bl...,#7F9FA1,Benjamin Moore,Williamsburg
+CW-595,Chesapeake Blue,#95C1C7,Benjamin Moore,Williamsburg
+CW-600,Bracken Blue,#6AA3AC,Benjamin Moore,Williamsburg
+CW-605,Palace Blue,#5EA0B7,Benjamin Moore,Williamsburg
+CW-610,Lafayette Blue,#6DA7C5,Benjamin Moore,Williamsburg
+CW-615,Randolph Blue,#3D83A0,Benjamin Moore,Williamsburg
+CW-620,Finley Blue,#4681A9,Benjamin Moore,Williamsburg
+CW-625,Prussian Blue,#335B7E,Benjamin Moore,Williamsburg
+CW-630,Washington Blue,#314757,Benjamin Moore,Williamsburg
+CW-635,Nelson Blue,#CFD7D1,Benjamin Moore,Williamsburg
+CW-640,Pearl,#A8B1AA,Benjamin Moore,Williamsburg
+CW-645,Apollo Blue,#778584,Benjamin Moore,Williamsburg
+CW-650,Palace Pearl,#C7D1D3,Benjamin Moore,Williamsburg
+CW-655,Greenhow Blue,#ADC8D5,Benjamin Moore,Williamsburg
+CW-660,Chiswell Blue,#82939C,Benjamin Moore,Williamsburg
+CW-665,Powell Gray,#5B666D,Benjamin Moore,Williamsburg
+CW-670,Azurite,#527D8F,Benjamin Moore,Williamsburg
+CW-675,Brush Blue,#425058,Benjamin Moore,Williamsburg
+CW-680,Mopboard Black,#38393A,Benjamin Moore,Williamsburg
+CW-685,Ambler Slate,#585A5B,Benjamin Moore,Williamsburg
+CW-690,Bracken Slate,#5F6464,Benjamin Moore,Williamsburg
+CW-695,Lampblack,#7F8282,Benjamin Moore,Williamsburg
+CW-700,Slate,#A4A9A9,Benjamin Moore,Williamsburg
+CW-705,Tucker Gray,#919799,Benjamin Moore,Williamsburg
+CW-710,Bruton White,#D6D2C8,Benjamin Moore,Williamsburg
+CW-715,Bone Black,#BAB9AF,Benjamin Moore,Williamsburg
+CW-720,Geddy Gray,#80817B,Benjamin Moore,Williamsburg
